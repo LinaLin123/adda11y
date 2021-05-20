@@ -1,0 +1,353 @@
+{"guidelines":[{
+		"id": 121,
+		"url": "https://webbriktlinjer.se/riktlinjer/121-ange-i-kod-vad-sidans-olika-delar-har-for-roll/",
+		"name": "Ange i kod vad sidans olika delar har för roll",
+		"description": "Öka chansen att informationen presenteras korrekt oavsett mottagarens verktyg, genom att använda html-elementen på rätt sätt.",
+		"tags": "DOS-lagen, Omfattande riktlinje",
+		"updated": "2019-02-18"
+	},{
+		"id": 141,
+		"url": "https://webbriktlinjer.se/riktlinjer/141-ange-sidans-sprak-i-koden/",
+		"name": "Ange sidans språk i koden",
+		"description": "För att öka sannolikheten att till exempel skärmläsare presenterar innehållet korrekt bör html-koden ange aktuellt språk med hjälp av lang-attribut. \r\n",
+		"tags": "DOS-lagen, Lågt hängande frukt",
+		"updated": "2018-12-05"
+	},{
+		"id": 142,
+		"url": "https://webbriktlinjer.se/riktlinjer/142-ange-sprakforandringar-koden/",
+		"name": "Ange språkförändringar i koden",
+		"description": "För att öka sannolikheten att till exempel skärmläsare presenterar innehållet korrekt bör html-koden ange aktuellt språk med hjälp av lang-attribut.\r\n",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 124,
+		"url": "https://webbriktlinjer.se/riktlinjer/124-inte-bara-farg/",
+		"name": "Använd inte enbart färg för att förmedla information",
+		"description": "Använd gärna färger, men låt inte färgskillnader vara det enda sättet att urskilja information utan komplettera med exempelvis text, mönster eller någon annan visuell indikation. \r\n",
+		"tags": "DOS-lagen",
+		"updated": "2018-11-28"
+	},{
+		"id": 128,
+		"url": "https://webbriktlinjer.se/riktlinjer/128-anvand-text-inte-bilder-for-att-visa-text/",
+		"name": "Använd text, inte bilder, för att visa text",
+		"description": "Användare behöver då och då anpassa texten bland annat genom att förstora eller välja ett annat teckensnitt, ändra förgrund- och bakgrundsfärger eller linjeavstånd. Om texten utgör en del av en bild saknas ofta de möjligheterna.",
+		"tags": "DOS-lagen",
+		"updated": "2018-11-28"
+	},{
+		"id": 126,
+		"url": "https://webbriktlinjer.se/riktlinjer/126-tillrackliga-kontraster/",
+		"name": "Använd tillräcklig kontrast mellan text och bakgrund",
+		"description": "Bra kontrast mellan text och bakgrund är viktigt för läsbarheten, särskilt för personer med nedsatt synförmåga.",
+		"tags": "DOS-lagen, kontrast",
+		"updated": "2018-11-28"
+	},{
+		"id": 156,
+		"url": "https://webbriktlinjer.se/riktlinjer/156-anvand-tillrackliga-kontraster-i-komponenter-och-grafik/",
+		"name": "Använd tillräckliga kontraster i komponenter och grafik",
+		"description": "Personer med nedsatt syn har ofta svårt att urskilja visuella kontraster mellan exempelvis en symbol och dess bakgrund, och riskerar därför att missa information. Designa därför webbplatsen så att komponenter i gränssnittet och informationsbärande grafik har tillräckliga kontraster. Som komponenter räknas till exempel knappar och formulärfält. Som grafiska objekt räknas exempelvis ikoner och betydelsefulla delar av illustrationer och diagram (till exempel kurvor och pilar).\r\n\r\nDenna riktlinje liknar <a href=\"/126\">Använd tillräcklig kontrast mellan text och bakgrund (R126)</a> (som motsvarar WCAG-kriteriet 1.4.3). Men nu gäller alltså motsvarande krav även för innehåll som inte är text. ",
+		"tags": "Bild, DOS-lagen, kontrast, Nytt i WCAG 2.1",
+		"updated": "2019-02-25"
+	},{
+		"id": 146,
+		"url": "https://webbriktlinjer.se/riktlinjer/146-bename-funktioner-konsekvent/",
+		"name": "Benämn funktioner konsekvent",
+		"description": "Konsekvent benämning av saker på hela webbplatsen underlättar för alla användare att känna igen sig och minskar onödig kognitiv belastning.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 115,
+		"url": "https://webbriktlinjer.se/riktlinjer/115-textalternativ/",
+		"name": "Beskriv med text allt innehåll som inte är text",
+		"description": "<b>Användare som är beroende av till exempel skärmläsare och punktdisplay behöver descriptionar av allt innehåll som inte är text. Det beskrivs i textalternativ eller alt-texter som det också kallas.</b>\r\n\r\nDet gäller till exempel:\r\n<ul>\r\n \t<li>Bilder (förutom sådana som endast används för dekoration)</li>\r\n \t<li>Diagram</li>\r\n \t<li>Animationer</li>\r\n \t<li>Ljudsignaler</li>\r\n</ul>\r\nSe därför till att allt sådant innehåll beskrivs med hjälp av text, förutom i de undantagsfall som beskrivs i <abbr title=\"Web Content Accessibility Guidelines\">WCAG</abbr>-kriteriet.  Undantagen gäller framförallt sådana situationer där en beskrivande text skulle motverka innehållets syfte (till exempel när syftet med ett ljud är att testa användarens hörsel).",
+		"tags": "alt-text, bilddescription, Bilder, bildtext, CAPTCHA, DOS-lagen, skärmläsare, talsyntes, textalternativ, textdescription",
+		"updated": "2021-03-29"
+	},{
+		"id": 116,
+		"url": "https://webbriktlinjer.se/riktlinjer/116-alternativ-vid-enbart-ljud-video/",
+		"name": "Erbjud alternativ om en inspelning enbart består av ljud eller video",
+		"description": "Användare som inte kan ta del av ljud- eller videoinspelningar ska ha en möjlighet att tillgodogöra sig innehållet med hjälp av en alternativ representation.\r\n",
+		"tags": "alternativ, DOS-lagen, inspelningar, podcast",
+		"updated": "2018-12-05"
+	},{
+		"id": 160,
+		"url": "https://webbriktlinjer.se/riktlinjer/160-erbjud-alternativ-till-komplexa-fingerrorelser/",
+		"name": "Erbjud alternativ till komplexa fingerrörelser",
+		"description": "Alla personer kan inte hantera komplexa rörelser på en pekskärm, så kallade fingergester. Detta gäller till exempel att svajpa (swipe) och gester som kräver flera fingrar (multi-touch) såsom dra isär och nyp ihop. Det kan bero på motoriska eller kognitiva begränsningar, vilket hjälpmedel en användare har eller användarens brist på kunskap om gränssnittet. Komplettera därför alltid sådana med enklare interaktion såsom klick, dubbelklick eller tryck, såvida inte rörelsen är avgörande för funktionaliteten. \r\n\r\nObservera att riktlinjen bara gäller webbplatsens eller appens gränssnitt. Det gäller inte operativsystemets eller webbläsarens funktioner, såsom horisontell svepning för att navigera i sidhistoriken. \r\n\r\nRiktlinjen undantar funktionalitet som naturligt kräver mer komplexa rörelser, till exempel att skriva sin signatur. \r\n",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1, pekskärm",
+		"updated": "2018-12-20"
+	},{
+		"id": 163,
+		"url": "https://webbriktlinjer.se/riktlinjer/163-erbjud-alternativ-till-rorelsestyrning/",
+		"name": "Erbjud alternativ till rörelsestyrning",
+		"description": "Se till att funktioner som aktiveras genom att användaren till exempel skakar, vrider, rör vid eller viftar framför enheten kan stängas av. Funktionerna ska även kunna aktiveras på något annat sätt. \r\n\r\n<a href=\"/files/2018/08/rorelsestyrning.png\"><img src=\"/files/2018/08/rorelsestyrning-300x287.png\" alt=\"Ovan: vridning av mobil medför förändring från läge 1 till läge 2. Nedan: Klick på knapp ger samma förändring.\" width=\"300\" height=\"287\" class=\"alignnone size-medium wp-image-19248\" /></a>\r\n\r\nDetta hjälper personer som till exempel har enheten fastsatt vid en permobil eller som av någon annan anledning inte har fysisk möjlighet att utföra liknande rörelser. Det finns också användare som oavsiktligt kan aktivera den här typen av kontroller på grund av ofrivilliga skakningar (så kallad essentiell tremor) eller andra motoriska störningar.\r\n",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1, rörelsestyrning",
+		"updated": "2018-11-28"
+	},{
+		"id": 32,
+		"url": "https://webbriktlinjer.se/riktlinjer/32-erbjud-besokaren-alternativa-orienteringsstod/",
+		"name": "Erbjud användarna flera olika sätt att navigera",
+		"description": "Användare har många olika strategier för att hitta på webbplatser. Erbjud därför fler sätt att navigera utöver sökfunktionen och den primära navigeringen/menyn.",
+		"tags": "Beställare, Design, DOS-lagen, Informationsstruktur, Innehåll, Länkstig, Navigering, Sök, Webbdesigner",
+		"updated": "2018-12-05"
+	},{
+		"id": 75,
+		"url": "https://webbriktlinjer.se/riktlinjer/75-gruppera-och-skapa-mojlighet-att-hoppa-forbi-delar-pa-sidorna/",
+		"name": "Erbjud möjlighet att hoppa förbi återkommande innehåll",
+		"description": "Bygg in genvägar i strukturen. Det kan ta lång tid att ta sig till olika delar av ett dokument när man navigerar med tangentbord, eftersom man normalt måste stega sig förbi varje länk. Webbplatser som har ett omfattande och komplext menysystem med många länkar kan försvåra avsevärt för många användare. ",
+		"tags": "Användbarhet, DOS-lagen, genväg, Gränssnitt, Informationsstruktur, Interaktionsdesign, Lågt hängande frukt, Rubrik, skärmläsare, Tillgänglighet, wai-aria",
+		"updated": "2018-12-05"
+	},{
+		"id": 125,
+		"url": "https://webbriktlinjer.se/riktlinjer/125-kunna-pausa-ljud/",
+		"name": "Ge användaren möjlighet att pausa, stänga av eller sänka ljud",
+		"description": "Det ska alltid vara möjligt att pausa, stoppa eller sänka sådant ljud som spelas upp automatiskt.\r\n",
+		"tags": "distraktion, DOS-lagen, kontrast, Ljud",
+		"updated": "2018-11-28"
+	},{
+		"id": 131,
+		"url": "https://webbriktlinjer.se/riktlinjer/131-ge-anvandarna-mojlighet-att-justera-tidsbegransningar/",
+		"name": "Ge användarna möjlighet att justera tidsbegränsningar",
+		"description": "Användare behöver ibland möjlighet att justera tidsbegränsningar som finns inbyggda i systemet, till exempel i en beställningsfunktion. Ge dem det!",
+		"tags": "DOS-lagen, Tidsbegränsning, timeout, utloggning",
+		"updated": "2018-12-05"
+	},{
+		"id": 132,
+		"url": "https://webbriktlinjer.se/riktlinjer/132-ge-anvandarna-mojlighet-att-pausa-eller-stanga-av-rorelser/",
+		"name": "Ge användarna möjlighet att pausa eller stänga av rörelser",
+		"description": "Personer som har svårt att fokusera, läsa eller behålla koncentration behöver kunna pausa rörelser eller stänga av visuella distraktioner.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 149,
+		"url": "https://webbriktlinjer.se/riktlinjer/149-ge-forslag-pa-hur-fel-kan-rattas-till/",
+		"name": "Ge förslag på hur fel kan rättas till",
+		"description": "När fel upptäcks automatiskt bör förslag på korrekt inmatning presenteras för användaren om det är möjligt.",
+		"tags": "DOS-lagen, felmeddelande",
+		"updated": "2018-12-05"
+	},{
+		"id": 150,
+		"url": "https://webbriktlinjer.se/riktlinjer/150-ge-mojlighet-att-angra-korrigera-eller-bekrafta-viktiga-transaktioner/",
+		"name": "Ge möjlighet att ångra, korrigera eller bekräfta vid viktiga transaktioner",
+		"description": "Den som råkar göra något fel kan slippa mycket besvär om felet kan upptäckas och åtgärdas direkt.\r\n",
+		"tags": "bekräftelse, DOS-lagen, Felhantering",
+		"updated": "2018-03-09"
+	},{
+		"id": 161,
+		"url": "https://webbriktlinjer.se/riktlinjer/161-gor-det-mojligt-att-angra-klick/",
+		"name": "Gör det möjligt att ångra klick",
+		"description": "Den som använder pekskärm eller pekdon som exempelvis mus behöver kunna ångra sig om knappen eller trycket skedde av misstag. Erbjud därför minst en sådan möjlighet. \r\n\r\nMöjligheten att ångra ett påbörjat klick är värdefull därför att den minskar risken för att aktivera funktioner av misstag. Vem som helst kan råka trycka vid fel plats eller tillfälle, och det är extra lätt hänt för personer med vissa funktionsnedsättningar (exempelvis begränsad motorisk kontroll eller synnedsättning).\r\n\r\nDenna riktlinje berör dig som programmerar användargränssnitt (“front-end”) med exempelvis Javascript, men inte dig som enbart jobbar med text, bild och formgivning.\r\n",
+		"tags": "DOS-lagen, inmatning, mus, Nytt i WCAG 2.1, pekdon, ångra",
+		"updated": "2018-12-20"
+	},{
+		"id": 136,
+		"url": "https://webbriktlinjer.se/riktlinjer/136-gor-en-logisk-tab-ordning/",
+		"name": "Gör en logisk tab-ordning",
+		"description": "Testa tab-ordningen genom att granska en sida av varje sidtyp utan hjälp av tryckkänslig skärm, mus eller annat pekdon.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 123,
+		"url": "https://webbriktlinjer.se/riktlinjer/123-ej-beroende-av-sensoriska-kannetecken/",
+		"name": "Gör inte instruktioner beroende av sensoriska kännetecken",
+		"description": "Även den som inte kan uppfatta form, storlek eller har möjlighet att relatera till höger eller vänster behöver kunna förstå hänvisningar till navigation och instruktioner.\r\n",
+		"tags": "DOS-lagen",
+		"updated": "2018-11-28"
+	},{
+		"id": 140,
+		"url": "https://webbriktlinjer.se/riktlinjer/140-markera-element-i-fokus/",
+		"name": "Markera tydligt vilket fält eller element som är i fokus",
+		"description": "Den som navigerar med t.ex. tab-tangenten behöver få veta var fokus ligger. Standardmarkeringen är ofta en tunn linje som är svår att se. \r\nGör markeringen tydlig, till exempel med en CSS-regel.",
+		"tags": "DOS-lagen, Lågt hängande frukt",
+		"updated": "2020-12-23"
+	},{
+		"id": 154,
+		"url": "https://webbriktlinjer.se/riktlinjer/154-mark-upp-vanliga-formularfalt-i-koden/",
+		"name": "Märk upp vanliga formulärfält i koden",
+		"description": "Hjälp dina användare att fylla i inmatningsfält genom att i koden ange vilken typ av innehåll som förväntas. Då kan webbläsare eller hjälpmedel ibland automatiskt föreslå inmatning (baserat på till exempel tidigare inmatning i fält av samma typ) i vanliga formulärfält (såsom gatu- och postadress). Systemet kan också ytterligare hjälpa användaren genom att presentera fältet på ett sätt (till exempel med en symbol) som användaren känner igen. \r\n\r\nDet är bra för alla användare, men kanske framför allt för personer med vissa kognitiva och motoriska funktionsnedsättningar. Det underlättar också för användare som inte behärskar språket så bra.",
+		"tags": "autocomplete, DOS-lagen, Formulär, Nytt i WCAG 2.1, symboler, sökförslag",
+		"updated": "2018-11-28"
+	},{
+		"id": 133,
+		"url": "https://webbriktlinjer.se/riktlinjer/133-orsaka-inte-epileptiska-anfall-genom-blinkande/",
+		"name": "Orsaka inte epileptiska anfall genom blinkande",
+		"description": "Personer med en viss kategori av epilepsi kan få krampanfall om de utsätts för snabbt blinkande “flimmer” som upptar en tillräckligt stor del av synfältet.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 158,
+		"url": "https://webbriktlinjer.se/riktlinjer/158-popup-funktioner-ska-kunna-hanteras-och-stangas-av-alla/",
+		"name": "Popup-funktioner ska kunna hanteras och stängas av alla",
+		"description": "Innehåll, till exempel popup-rutor, som dyker upp vid tangentbordsfokus eller när användaren för muspekaren (hovrar) över ett visst objekt ska kunna uppfattas och hanteras av alla - även av användare som har förstorat sidan eller tar längre tid på sig att komma till innehållet. Det är särskilt viktigt att innehållet enkelt kan tas bort eller stängas.\r\n\r\nDet kan till exempel gälla undermenyer, inforutor (tooltips) och icke-modala popup-fönster.\r\n\r\nTyvärr skapar sådant innehåll annars ofta tillgänglighetsproblem, till exempel för att:\r\n<ul>\r\n \t<li>användaren inte har aktiverat funktionen med avsikt,</li>\r\n \t<li>användaren inte blir medveten om att det har dykt upp nytt innehåll eller</li>\r\n \t<li>det nya innehållet stör användarens förmåga att genomföra en uppgift.</li>\r\n</ul>",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1",
+		"updated": "2018-11-28"
+	},{
+		"id": 122,
+		"url": "https://webbriktlinjer.se/riktlinjer/122-meningsfull-ordning/",
+		"name": "Presentera innehållet i en meningsfull ordning för alla",
+		"description": "Utforma innehållet på ett sätt som bevarar den avsedda betydelsen för alla användare.",
+		"tags": "CSS, DOS-lagen, läsordning, responsiv",
+		"updated": "2020-10-08"
+	},{
+		"id": 153,
+		"url": "https://webbriktlinjer.se/riktlinjer/153-fungerar-oavsett-skarmens-riktning/",
+		"name": "Se till att allt innehåll presenteras rätt oavsett skärmens riktning",
+		"description": "Alla människor har inte möjlighet att vrida på sin skärm. Vissa måste välja ett läge (stående eller liggande) och alltid använda detta, exempelvis med skärmen fast monterad på en rullstol. Skapa därför en design så att innehåll och funktioner är tillgängliga oavsett skärmens riktning. Då kan var och en välja det läge de föredrar.\r\n\r\n<img src=\"http://webbriktlinjer.se/files/2018/08/noun_Reading-1.png\" alt=\"\" width=\"300\" height=\"317\" class=\"alignnone size-full wp-image-19311\" />\r\nDet finns inget som hindrar att presentationen av innehållet och funktionerna skiljer sig åt mellan de båda lägena så länge innehållet är tillgängligt och funktionerna är åtkomliga och har normal funktion.\r\n\r\nI riktlinjen finns undantag för när funktionaliteten är beroende av att användaren har skärmen i en viss riktning, till exempel ett pianoprogram där liggande läge är nödvändigt för att alla tangenterna ska få plats. Informera användaren om när en viss riktning av skärmen är nödvändigt.",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1, responsiv, skärmriktning",
+		"updated": "2018-11-28"
+	},{
+		"id": 157,
+		"url": "https://webbriktlinjer.se/riktlinjer/157-avstand-mellan-tecken-rader-stycken-och-ord/",
+		"name": "Se till att det går att öka avstånd mellan tecken, rader, stycken och ord",
+		"description": "Många användare, till exempel dyslektiker och personer med nedsatt syn, behöver kunna påverka avståndet mellan stycken, rader, ord och tecken för att lättare kunna läsa. Gör det därför möjligt för användaren att påverka avstånden utan att innehåll eller funktionalitet krockar eller gömmer sig bakom annat innehåll.\r\n\r\nDenna riktlinje är närliggande riktlinjen <a href=\"https://webbriktlinjer.se/riktlinjer/127-se-till-att-text-gar-att-forstora-utan-problem/\">Se till att text går att förstora utan problem (R127)</a> men gäller alltså mellanrummen och inte själva tecknen.\r\n\r\nAnvändaren ska ha möjlighet att öka avstånd åtminstone upp till följande relativa gränsvärden:\r\n<ul>\r\n \t<li>Radavstånd ska kunna ökas minst 1,5 gånger teckensnittets storlek.</li>\r\n \t<li>Teckenavstånd ska kunna ökas minst 0,12 gånger teckensnittets storlek.</li>\r\n \t<li>Avståndet mellan ord ska kunna ökas minst 0,16 gånger teckensnittets storlek.</li>\r\n \t<li>Avståndet mellan stycken ska kunna ökas minst 2 gånger teckensnittets storlek.</li>\r\n</ul>\r\nFörstoring av mellanrum kan ske på olika sätt. Till exempel med hjälp av <a href=\"https://www.html5accessibility.com/tests/tsbookmarklet.html\">en bookmarklet som ökar avstånden</a>, med ett förstoringshjälpmedel eller genom att <a href=\"http://people.ds.cam.ac.uk/ssb22/css/\">ställa in webbläsaren att tillämpa användarens egen css-kod</a>.\r\n\r\nRiktlinjen gäller inte för <a href=\"https://webbriktlinjer.se/riktlinjer/117-texta-inspelad-rorlig-media/#erbjud-stangda-undertexter-for-digital-video\">öppna undertexter i video</a> och inte heller för text som förekommer i bilder (vilket i och för sig ofta bör undvikas, se <a href=\"https://webbriktlinjer.se/riktlinjer/128-anvand-text-inte-bilder-for-att-visa-text/\">Använd text, inte bilder, för att visa text (R128)</a>). För närvarande är även PDF undantaget.\r\n",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1, radavstånd, Typografi",
+		"updated": "2018-11-28"
+	},{
+		"id": 164,
+		"url": "https://webbriktlinjer.se/riktlinjer/164-meddelanden-som-inte-ar-fokus/",
+		"name": "Se till att hjälpmedel kan presentera meddelanden som inte är i fokus",
+		"description": "Se till att de som använder tekniska hjälpmedel som exempelvis skärmläsare och förstoringsprogram kan göras uppmärksamma på viktiga meddelanden även om de presenteras utanför det område på sidan som användaren har i fokus. \r\nAnge med hjälp av attributen <code>role</code> eller <code>aria-live</code> var viktiga meddelanden kan förekomma, så får hjälpmedel kännedom om dessa och kan presentera dem för användaren vid ett lämpligt tillfälle.\r\nBerörda användare riskerar annars att missa varningar, upplysningar och felmeddelanden. \r\n",
+		"tags": "ajax, DOS-lagen, dynamisk, fokus, Nytt i WCAG 2.1, skärmläsare",
+		"updated": "2018-12-20"
+	},{
+		"id": 84,
+		"url": "https://webbriktlinjer.se/riktlinjer/84-se-till-att-koden-validerar/",
+		"name": "Se till att koden validerar",
+		"description": "Se till att er webbplats har sidmallar och stilmallar som har en god kodkvalitet och följer standarder. Det ökar chansen att alla användare kan komma åt informationen och tjänsterna på webbplatsen, oavsett vilka verktyg de använder. ",
+		"tags": "DOS-lagen, Kravställare, Standarder, Systemutveckling, Testare, Utvecklare, Utveckling, validering",
+		"updated": "2018-12-05"
+	},{
+		"id": 130,
+		"url": "https://webbriktlinjer.se/riktlinjer/130-se-till-att-markoren-inte-fastnar-vid-tangentbordsnavigation/",
+		"name": "Se till att markören inte fastnar vid tangentbordsnavigation",
+		"description": "Markören ska inte fastna vid tangentbordsnavigation. Det kan hindra besökare att använda webbplatsen eller vissa funktioner.",
+		"tags": "DOS-lagen, hjälpmedel, inmatning, progressive enhancement, tangentbord",
+		"updated": "2018-12-05"
+	},{
+		"id": 152,
+		"url": "https://webbriktlinjer.se/riktlinjer/152-se-till-att-skraddarsydda-komponenter-fungerar-hjalpmedel/",
+		"name": "Se till att skräddarsydda komponenter fungerar i hjälpmedel",
+		"description": "Komponenter behöver exponera name, roll och värde till operativsystemets tillgänglighets-API för att fungera med vissa hjälpmedel.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 127,
+		"url": "https://webbriktlinjer.se/riktlinjer/127-se-till-att-text-gar-att-forstora-utan-problem/",
+		"name": "Se till att text går att förstora utan problem",
+		"description": "Det ska vara möjligt att förstora texten till åtminstone dubbel höjd och bredd utan att problem uppstår (till exempel att text hamnar bakom en bild eller krockar med annan text).",
+		"tags": "DOS-lagen",
+		"updated": "2018-11-28"
+	},{
+		"id": 162,
+		"url": "https://webbriktlinjer.se/riktlinjer/162-mojliggor-roststyrning-av-knappar-och-kontroller/",
+		"name": "Se till att text på knappar och kontroller överensstämmer med maskinläsbara etiketter",
+		"description": "Se till att text som är synlig på knappar och andra gränssnittskontroller också finns i, och överensstämmer med, den maskinläsbara etikett som representerar kontrollen i exempelvis program för röststyrning.\r\n\r\nDen som använder röststyrning säger vanligtvis det som står på en knapp för att använda knappen. Detta fungerar om det som står på knappen motsvarar den maskinläsbara texten. Upplevelsen för seende som använder skärmläsare blir också bättre om uppläst text matchar det som visas på skärmen. \r\n",
+		"tags": "DOS-lagen, Nytt i WCAG 2.1, röststyrning, skärmläsare, wai-aria",
+		"updated": "2020-11-20"
+	},{
+		"id": 91,
+		"url": "https://webbriktlinjer.se/riktlinjer/91-skapa-en-flexibel-layout/",
+		"name": "Skapa en flexibel layout som fungerar vid förstoring eller liten skärm",
+		"description": "Skapa en layout som fungerar på en 320 pixlar bred skärm utan att information eller funktionalitet går förlorad, utan scrollning i mer än en riktning. I praktiken innebär det responsiv design och att att riktigt långa ord behöver avstavas. Att behöva scrolla i sidled är besvärligt och försämrar upplevelsen. Många använder små skärmar och personer som på grund av nedsatt syn förstorar innehållet har liknande behov. ",
+		"tags": "Användbarhet, DOS-lagen, Formgivare, Kravställare, Kravställning, Nytt i WCAG 2.1, responsiv, Stilmallar, Test, Testare, Tillgänglighet, Utvecklare, Utveckling",
+		"updated": "2018-12-20"
+	},{
+		"id": 68,
+		"url": "https://webbriktlinjer.se/riktlinjer/68-skapa-snabbkommandon-for-viktiga-funktioner/",
+		"name": "Skapa kortkommandon med varsamhet",
+		"description": "Kortkommandon kan göra att det går snabbare att navigera på webbplatsen, men de bör användas med försiktighet. \r\n\r\nDet finns en risk att webbplatsens kortkommandon förväxlas med kortkommandon som användarens webbläsare, operativsystem eller hjälpmedel erbjuder. Kortkommandon som bara består av ett tecken kan dessutom orsaka problem för personer som använder röststyrning eller råkar klicka på fel tangent, exempelvis på grund av skakningar i händerna. \r\n\r\nRiktlinjen påverkar inte funktioner såsom listboxar och rullgardinsmenyer där användare kan göra sitt val genom att en eller flera tangenter trycks ned, eftersom detta bara går att göra när komponenten är i fokus.\r\n",
+		"tags": "DOS-lagen, genväg, kortkommando, Nytt i WCAG 2.1, snabbkommando",
+		"updated": "2018-12-28"
+	},{
+		"id": 55,
+		"url": "https://webbriktlinjer.se/riktlinjer/55-skapa-tydliga-och-klickbara-faltetiketter/",
+		"name": "Skapa tydliga och klickbara fältetiketter",
+		"description": "För varje fält i ett formulär där användarna ska fylla i information, skapa en tydlig fältetikett (label) som förklarar fältets funktion. ",
+		"tags": "Beställare, DOS-lagen, Formulär, Label, Utvecklare",
+		"updated": "2018-12-05"
+	},{
+		"id": 61,
+		"url": "https://webbriktlinjer.se/riktlinjer/61-skriv-tydliga-och-berattande-rubriker/",
+		"name": "Skriv beskrivande rubriker och etiketter",
+		"description": "Bra rubriker hjälper läsaren att hitta i texten. Rubrikerna är särskilt viktiga för personer som använder skärmläsare, som kan läsa upp en lista över rubrikerna på en sida. Rubrikerna ska vara lagom långa och sammanfatta vad sidan eller avsnittet handlar om. Alltför korta och allmänna rubriker ger inte användarna så mycket hjälp, till exempel ”Inledning” eller ”Aktiviteter”.",
+		"tags": "Beställare, DOS-lagen, Förvaltning, Informatör, Innehåll, Klarspråk, Navigering, Rubrik, Språk, Utveckling, Webbplatsansvarig",
+		"updated": "2018-12-05"
+	},{
+		"id": 135,
+		"url": "https://webbriktlinjer.se/riktlinjer/135-skriv-beskrivande-sidtitlar/",
+		"name": "Skriv beskrivande sidtitlar",
+		"description": "En bra beskrivande titel sammanfattar sidans ämne eller innehåll. Varje sida på en webbplats, liksom andra typer av dokument bör ha en unik titel.",
+		"tags": "DOS-lagen",
+		"updated": "2020-09-30"
+	},{
+		"id": 5,
+		"url": "https://webbriktlinjer.se/riktlinjer/5-skriv-tydliga-lankar/",
+		"name": "Skriv tydliga länkar",
+		"description": "Skriv länkarna så att användarna förstår vart länken leder även när den är lyft ur sitt sammanhang. På webben skummar vi ofta igenom information och blicken fastnar på avvikelser såsom rubriker, markerade ord och länkar. Tydliga och informativa länkar gör att besökarna snabbare hittar den information de söker.",
+		"tags": "Dokument, DOS-lagen, flik, Förvaltning, Innehåll, Länkar, target",
+		"updated": "2018-12-05"
+	},{
+		"id": 118,
+		"url": "https://webbriktlinjer.se/riktlinjer/118-syntolka-eller-erbjud-alternativ-till-videoinspelningar/",
+		"name": "Syntolka eller erbjud alternativ till videoinspelningar",
+		"description": "Den som inte kan ta del av det visuella innehållet i videoinspelningar, till exempel på grund av synnedsättning, ska kunna få motsvarande information antingen i form av syntolkning (ljuddescription) eller presenterad som text. \r\n\r\n\r\n",
+		"tags": "syntolkning",
+		"updated": "2018-12-05"
+	},{
+		"id": 120,
+		"url": "https://webbriktlinjer.se/riktlinjer/120-syntolka-videoinspelningar/",
+		"name": "Syntolka videoinspelningar",
+		"description": "Ordna med syntolkning om det behövs för att personer med begränsad syn ska kunna ta del av videoinnehåll.\r\n",
+		"tags": "DOS-lagen, en301549, en301549 utöver WCAG, syntolkning",
+		"updated": "2020-12-03"
+	},{
+		"id": 119,
+		"url": "https://webbriktlinjer.se/riktlinjer/119-texta-direktsandningar/",
+		"name": "Texta direktsändningar",
+		"description": "Digital video ska ha undertexter och för annat ljud bör en textversion erbjudas. Denna riktlinje gäller direktsändningar.\r\n",
+		"tags": "undertexter",
+		"updated": "2020-09-25"
+	},{
+		"id": 117,
+		"url": "https://webbriktlinjer.se/riktlinjer/117-texta-inspelad-rorlig-media/",
+		"name": "Texta inspelad rörlig media (video, ljud, animationer…)",
+		"description": "Inspelad digital video ska ha undertexter (kallas även textdescriptionar eller textremsa) och för ljudinspelningar (till exempel podcasts) med mera ska en textversion erbjudas.",
+		"tags": "DOS-lagen, en301549, en301549 utöver WCAG, Ljud, multimedia, textning",
+		"updated": "2020-11-30"
+	},{
+		"id": 143,
+		"url": "https://webbriktlinjer.se/riktlinjer/143-utfor-inga-ovantade-forandringar-vid-fokusering/",
+		"name": "Utför inga oväntade förändringar vid fokusering",
+		"description": "Utför ändringar när användaren har anledning att förvänta sig dem.",
+		"tags": "DOS-lagen",
+		"updated": "2018-12-05"
+	},{
+		"id": 144,
+		"url": "https://webbriktlinjer.se/riktlinjer/144-utfor-inga-ovantade-forandringar-vid-inmatning/",
+		"name": "Utför inga oväntade förändringar vid inmatning",
+		"description": "Utför ändringar när användaren har anledning att förvänta sig dem. ",
+		"tags": "DOS-lagen, dynamisk, Formulär, inmatning, sammanhang",
+		"updated": "2018-12-05"
+	},{
+		"id": 129,
+		"url": "https://webbriktlinjer.se/riktlinjer/129-gar-att-hantera-med-tangentbord/",
+		"name": "Utveckla systemet så att det går att hantera med enbart tangentbordet",
+		"description": "Se till att det går att hantera all funktionalitet med enbart tangentbord, eftersom många hjälpmedel i praktiken fungerar som tangentbord.\r\n",
+		"tags": "DOS-lagen, tangentbord",
+		"updated": "2018-11-30"
+	},{
+		"id": 29,
+		"url": "https://webbriktlinjer.se/riktlinjer/29-var-konsekvent-i-navigation-struktur-och-utformning/",
+		"name": "Var konsekvent i navigation, struktur och utformning",
+		"description": "Konsekvens är mycket viktigt för att användarna ska förstå hur webbplatsen fungerar. Det betyder inte att alla sidor måste se likadana ut, men liknande uppgifter ska utföras på samma sätt oavsett var på webbplatsen man befinner sig.",
+		"tags": "Design, DOS-lagen, Förvaltning, Informationsstruktur, Navigering, Utveckling, Webbdesign",
+		"updated": "2018-12-05"
+	},{
+		"id": 2,
+		"url": "https://webbriktlinjer.se/riktlinjer/2-ge-begripliga-felmeddelanden/",
+		"name": "Visa var ett fel uppstått och beskriv det tydligt",
+		"description": "Hjälp dina användare när det blir fel. Väl formulerade felmeddelanden ger användarna möjlighet att fylla i så felfria data som möjligt i formulären. De minskar också risken för att användarna ska bli irriterade när systemet inte förstår eller kan tolka den felaktigt inmatade informationen.",
+		"tags": "Applikation, DOS-lagen, Felhantering, Formulär, Innehåll, Utvecklare, Utveckling",
+		"updated": "2018-12-05"
+	}
+]
+}

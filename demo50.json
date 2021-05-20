@@ -1,0 +1,58 @@
+{"products":[
+  {
+    "id": 107,
+    "URL": "https://webbriktlinjer.se/riktlinjer/107-utfor-anvandningsanalys/",
+    "name": "Analysera hur webbplatsen kommer att anv�ndas, och av vem",
+    "description": "Den f�rsta fasen i det anv�ndarcentrerade arbetss�ttet �r att g�ra en anv�ndningsanalys, d�r ni kartl�gger m�lgrupperna och behoven. Anv�ndningsanalysen �r grunden f�r att ni ska kunna skapa en anv�ndbar webbplats med funktioner som blir anv�nda.",
+    "Prio": "Inaktiv",
+    "Princip(er)": "",
+    "Taggar": "",
+    "Senast uppdaterad:": "2018-04-16",
+    "Status:": ""
+  },
+  {
+    "id": 121,
+    "URL": "https://webbriktlinjer.se/riktlinjer/121-ange-i-kod-vad-sidans-olika-delar-har-for-roll/",
+    "name": "Ange i kod vad sidans olika delar har f�r roll",
+    "description": "�ka chansen att informationen presenteras korrekt oavsett mottagarens verktyg, genom att anv�nda html-elementen p� r�tt s�tt.",
+    "Prio": 1,
+    "Princip(er)": "",
+    "Taggar": "DOS-lagen, Omfattande riktlinje",
+    "Senast uppdaterad:": "2019-02-18",
+    "Status:": ""
+  },
+  {
+    "id": 23,
+    "URL": "https://webbriktlinjer.se/riktlinjer/23-ange-nar-informationen-granskades/",
+    "name": "Ange n�r webbsidorna har publicerats eller uppdaterats",
+    "description": "G�r det tydligt hur pass aktuell informationen p� webbplatsen �r genom att ange ett datum p� sidan. I vissa fall �r det ocks� relevant att ange ett klockslag.",
+    "Prio": 2,
+    "Princip(er)": "Anv�ndbar, F�rtroendeingivande, Tillg�nglig, �tkomlig �ver tid",
+    "Taggar": "Best�llare, Datering, F�rvaltning, Informat�r, Inneh�ll, L�gt h�ngande frukt, Utveckling, Webbplatsansvarig, Webbredakt�r",
+    "Senast uppdaterad:": "2017-11-05",
+    "Status:": ""
+  },
+  {
+    "id": 102,
+    "URL": "https://webbriktlinjer.se/riktlinjer/102-det-ska-framga-om-ett-dokument-ar-en-del-av-ett-storre-dokument/",
+    "name": "Ange om ett dokument �r en del av ett st�rre dokument",
+    "description": "Om ett dokument �r en del av ett st�rre dokument, eller �r n�ra relaterat till andra material, l�nka dit och anv�nd relevanta attribut som beskriver relationen. Till exempel kan varje kapitel av en rapport ligga p� varsin sida, med l�nkar sinsemellan, som har attributen �prev� och �next� . Det finns ocks� s�rskilda attibut f�r tillh�rande ordlistor, upphovsr�ttsinformation med mera. De underl�ttar f�r anv�ndare och s�kmotorer att f�rst� att, och hur, dokument h�r ihop.",
+    "Prio": 5,
+    "Princip(er)": "Anv�ndbar, Effektiv",
+    "Taggar": "Anv�ndbarhet, Inneh�ll, S�kmotor, Test, Testare, Utvecklare, Utveckling, Webbredakt�r",
+    "Senast uppdaterad:": "2014-11-01",
+    "Status:": ""
+  },
+  {
+    "id": 141,
+    "URL": "https://webbriktlinjer.se/riktlinjer/141-ange-sidans-sprak-i-koden/",
+    "name": "Ange sidans spr�k i koden",
+    "description": "F�r att �ka sannolikheten att till exempel sk�rml�sare presenterar inneh�llet korrekt b�r html-koden ange aktuellt spr�k med hj�lp av lang-attribut.",
+    "Prio": 1,
+    "Princip(er)": "Tillg�nglig",
+    "Taggar": "DOS-lagen, L�gt h�ngande frukt",
+    "Senast uppdaterad:": "2018-12-05",
+    "Status:": ""
+  }
+]
+}

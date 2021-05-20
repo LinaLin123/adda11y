@@ -1,0 +1,1442 @@
+[{
+		"Riktlinje nr ": 107,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/107-utfor-anvandningsanalys/",
+		"Namn ": "Analysera hur webbplatsen kommer att användas, och av vem",
+		"Beskrivning ": "Den första fasen i det användarcentrerade arbetssättet är att göra en användningsanalys, där ni kartlägger målgrupperna och behoven. Användningsanalysen är grunden för att ni ska kunna skapa en användbar webbplats med funktioner som blir använda.",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2018-04-16"
+	},{
+		"Riktlinje nr ": 121,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/121-ange-i-kod-vad-sidans-olika-delar-har-for-roll/",
+		"Namn ": "Ange i kod vad sidans olika delar har för roll",
+		"Beskrivning ": "Öka chansen att informationen presenteras korrekt oavsett mottagarens verktyg, genom att använda html-elementen på rätt sätt.",
+		"Prio ": 1,
+		"Taggar": "DOS-lagen, Omfattande riktlinje",
+		"Senast uppdaterad: ": "2019-02-18"
+	},{
+		"Riktlinje nr ": 23,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/23-ange-nar-informationen-granskades/",
+		"Namn ": "Ange när webbsidorna har publicerats eller uppdaterats",
+		"Beskrivning ": "Gör det tydligt hur pass aktuell informationen på webbplatsen är genom att ange ett datum på sidan. I vissa fall är det också relevant att ange ett klockslag. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Förtroendeingivande, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Beställare, Datering, Förvaltning, Informatör, Innehåll, Lågt hängande frukt, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2017-11-05"
+	},{
+		"Riktlinje nr ": 102,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/102-det-ska-framga-om-ett-dokument-ar-en-del-av-ett-storre-dokument/",
+		"Namn ": "Ange om ett dokument är en del av ett större dokument",
+		"Beskrivning ": "Om ett dokument är en del av ett större dokument, eller är nära relaterat till andra material, länka dit och använd relevanta attribut som beskriver relationen. Till exempel kan varje kapitel av en rapport ligga på varsin sida, med länkar sinsemellan, som har attributen ”prev” och ”next” . Det finns också särskilda attibut för tillhörande ordlistor, upphovsrättsinformation med mera. De underlättar för användare och sökmotorer att förstå att, och hur, dokument hör ihop.",
+		"Prio ": 5,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Användbarhet, Innehåll, Sökmotor, Test, Testare, Utvecklare, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 141,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/141-ange-sidans-sprak-i-koden/",
+		"Namn ": "Ange sidans språk i koden",
+		"Beskrivning ": "För att öka sannolikheten att till exempel skärmläsare presenterar innehållet korrekt bör html-koden ange aktuellt språk med hjälp av lang-attribut. \r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Lågt hängande frukt",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 142,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/142-ange-sprakforandringar-koden/",
+		"Namn ": "Ange språkförändringar i koden",
+		"Beskrivning ": "För att öka sannolikheten att till exempel skärmläsare presenterar innehållet korrekt bör html-koden ange aktuellt språk med hjälp av lang-attribut.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 24,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/24-tydliggor-om-informationen-ar-inaktuell/",
+		"Namn ": "Ange tydligt om viss information är inaktuell",
+		"Beskrivning ": "Gör det tydligt för användarna om det finns innehåll på webbplatsen som inte längre är giltigt. Ett exempel är om ni i referenssyfte har kvar tidigare riktlinjer eller juridisk information, som har blivit ersatta av nyare material.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Förtroendeingivande",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 22,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/22-ange-vilken-organisation-som-ar-utgivare-till-webbplatsen-pa-samtliga-sidor/",
+		"Namn ": "Ange vilken organisation som är avsändare av webbplatsen",
+		"Beskrivning ": "Informera om vilken organisation som står bakom webbplatsen och vem som har ansvar för den. Placera informationen i sidfoten eller sidhuvudet så att den är åtkomlig från alla sidor.",
+		"Prio ": 5,
+		"Princip(er) ": "Användbar, Förtroendeingivande",
+		"Taggar": "Ansvarig, Avsändare, Förvaltning, Informatör, Innehåll, kontakt, Lågt hängande frukt, Utgivare, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-04-10"
+	},{
+		"Riktlinje nr ": 59,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/59-anpassa-storleken-pa-textfalt-till-ett-forvantat-innehall/",
+		"Namn ": "Anpassa textfältens storlek till det förväntade innehållet",
+		"Beskrivning ": "Denna riktlinje har slagits ihop med R58. Använd standardutseendet på formulärets element.",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2017-10-31"
+	},{
+		"Riktlinje nr ": 17,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/17-anpassa-webbplatsen-for-flersprakighet/",
+		"Namn ": "Anpassa webbplatsen för flerspråkighet",
+		"Beskrivning ": "Flerspråkiga webbplatser behöver både tekniskt stöd och en bra struktur för att fungera optimalt. Riktlinjen sammanställer erfarenheter av hur webbplatser kan anpassas för flerspråkighet.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, minoritetsspråk, Språk, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 111,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/111-anpassa-for-sma-skarmar/",
+		"Namn ": "Anpassa webbplatsen även för små skärmar",
+		"Beskrivning ": "Allt fler använder mobilen eller andra enheter med små skärmar för att besöka webbplatser och använda tjänster och program. Anpassa därför information, funktioner och gränssnitt för alla typer av skärmar. ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tekniskt oberoende",
+		"Taggar": "mobil, responsiv, skärm, upplösning",
+		"Senast uppdaterad: ": "2015-09-01"
+	},{
+		"Riktlinje nr ": 7,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/7-anvand-alltid-en-krypterad-kanal-for-webbaserade-e-tjanster/",
+		"Namn ": "Använd en krypterad anslutning för e-tjänster",
+		"Beskrivning ": "Använd en krypterad anslutning, https, till alla webbaserade e-tjänster för att minimera risken att användarnas information avlyssnas.",
+		"Prio ": 2,
+		"Princip(er) ": "Förtroendeingivande",
+		"Taggar": "Beställare, Plattform, säkerhet, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 41,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/41-anvand-funktionsbrevlador/",
+		"Namn ": "Använd funktionsbrevlådor",
+		"Beskrivning ": "E-post är en vanlig och viktig kontaktväg för användare som vill kommunicera med organisationer. Skapa funktionsbrevlådor för era vanligaste kontaktvägar för att undvika problem när medarbetare slutar på arbetsplatsen eller är tillfälligt frånvarande.",
+		"Prio ": 4,
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "e-post, kontakt",
+		"Senast uppdaterad: ": "2018-07-11"
+	},{
+		"Riktlinje nr ": 124,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/124-inte-bara-farg/",
+		"Namn ": "Använd inte enbart färg för att förmedla information",
+		"Beskrivning ": "Använd gärna färger, men låt inte färgskillnader vara det enda sättet att urskilja information utan komplettera med exempelvis text, mönster eller någon annan visuell indikation. \r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 94,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/94-anvand-inte-ramar/",
+		"Namn ": "Använd inte ramar",
+		"Beskrivning ": "Använd i första hand serverbaserade tekniker för att infoga innehåll i sidor. Använd inte ramar  (frames) för att utforma webbplatsen. Det orsakar nämligen en rad problem med användbarhet och tillgänglighet.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Användbarhet, Användbarhetsdesigner, frames, iframes, Interaktionsdesign, Kravställare, Kravställning, ramar, Test, Testare, Tillgänglighet, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 83,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/83-anvand-inte-tabeller-for-layout/",
+		"Namn ": "Använd inte tabeller för layout",
+		"Beskrivning ": "Formge inte er webbplats med hjälp av tabeller. Det finns nämligen en risk att användare som använder läshjälpmedel får informationen i tabellerna i fel ordning eller inte alls, beroende på hur komplexa tabellstrukturer som används. Även om tabellstrukturen fungerar så kommer vissa hjälpmedel att läsa upp information om tabellerna, vilket gör det svårare för användarna att förstå innehållet.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Förtroendeingivande, Tillgänglig",
+		"Taggar": "CSS, e-post, Gränssnitt, Layout, Tabeller, Utveckling, wai-aria",
+		"Senast uppdaterad: ": "2017-12-15"
+	},{
+		"Riktlinje nr ": 93,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/93-gor-inte-webbplatsen-beroende-av-javascript/",
+		"Namn ": "Använd Javascript för att öka tillgängligheten – inte tvärtom",
+		"Beskrivning ": "Javascript ger ofta en god användbarhet, och kan bidra till ökad tillgänglighet och effektivitet. Men det finns användare som inte kan eller vill använda Javascript. Se därför till att det går att använda webbplatsens viktigaste funktioner även utan Javascript, och följ riktlinjer för tillgänglig Javascript. ",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tekniskt oberoende, Tillgänglig",
+		"Taggar": "Användbarhet, Användbarhetsdesigner, Interaktionsdesign, Kravställare, Kravställning, Omfattande riktlinje, Test, Testare, Tillgänglighet, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2016-12-22"
+	},{
+		"Riktlinje nr ": 65,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/65-anvand-ord-och-termer-konsekvent/",
+		"Namn ": "Använd ord och termer konsekvent",
+		"Beskrivning ": "Var konsekvent med hur ni använder ord och termer, för att undvika feltolkningar. Kontrollera konsekvensen i ert ordval på webbplatsen, både i texter och i navigation och funktioner.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Förvaltning, Informatör, Innehåll, Klarspråk, Nämner lag, Språk, Webbredaktör",
+		"Senast uppdaterad: ": "2014-09-25"
+	},{
+		"Riktlinje nr ": 104,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/104-gor-listor-med-de-html-element-som-ar-till-for-att-skapa-listor/",
+		"Namn ": "Använd rätt html-element när ni gör listor",
+		"Beskrivning ": "En av poängerna med HTML är att språket kan användas för att märka upp semantiken i ett dokument. Märk upp listor som listor, och se till att inget annat än listor är märkta så. Skärmläsare och andra hjälpmedel behöver korrekt kodade listor för att kunna signalera till användaren att en lista faktiskt är just en lista.",
+		"Prio ": 4,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Användbarhet, Innehåll, Listor, Semantik, Tillgänglighet, Utvecklare, Utveckling, Webbdesign, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 58,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/58-andra-inte-utseende-pa-formularelement/",
+		"Namn ": "Använd standardutseendet på formulärens element",
+		"Beskrivning ": "Undvik att ändra utseende på formulärelement som textfält och kryssrutor, så att användarna lätt kan känna igen dem.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Formulär, Förvaltning, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2018-07-11"
+	},{
+		"Riktlinje nr ": 30,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/30-anvand-startsidan-for-att-ge-en-introduktion-till-webbplatsen/",
+		"Namn ": "Använd startsidan för att ge en introduktion till webbplatsen",
+		"Beskrivning ": "Startsidan används ofta av besökare som inte är bekanta med webbplatsen och som inte vet så mycket om hur organisationen är uppbyggd. Den är också en naturlig plats att återvända till om användarna gått vilse i strukturen. Se startsidan som en innehållsdeklaration, där de osäkra användarna får hjälp att hitta det de söker.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Design, Landningssida, Startsida, Webbdesigner, Webbredaktör",
+		"Senast uppdaterad: ": "2014-08-29"
+	},{
+		"Riktlinje nr ": 82,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/82-separera-innehall-fran-design-anvand-externa-stilmallar-for-att-styra-presentation-och-layout/",
+		"Namn ": "Använd stilmallar för att separera presentationen från innehållet",
+		"Beskrivning ": "Använd stilmallar (cascading style sheets, css:er), där ni samlar alla regler för webbplatsens utseende: hur textelement ska se ut, var på sidan objekt ska placeras och hur objektens utseende ska justeras.",
+		"Prio ": 2,
+		"Princip(er) ": "Tekniskt oberoende, Tillgänglig",
+		"Taggar": "CSS, Standarder, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2014-10-16"
+	},{
+		"Riktlinje nr ": 128,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/128-anvand-text-inte-bilder-for-att-visa-text/",
+		"Namn ": "Använd text, inte bilder, för att visa text",
+		"Beskrivning ": "Användare behöver då och då anpassa texten bland annat genom att förstora eller välja ett annat teckensnitt, ändra förgrund- och bakgrundsfärger eller linjeavstånd. Om texten utgör en del av en bild saknas ofta de möjligheterna.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 126,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/126-tillrackliga-kontraster/",
+		"Namn ": "Använd tillräcklig kontrast mellan text och bakgrund",
+		"Beskrivning ": "Bra kontrast mellan text och bakgrund är viktigt för läsbarheten, särskilt för personer med nedsatt synförmåga.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, kontrast",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 156,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/156-anvand-tillrackliga-kontraster-i-komponenter-och-grafik/",
+		"Namn ": "Använd tillräckliga kontraster i komponenter och grafik",
+		"Beskrivning ": "Personer med nedsatt syn har ofta svårt att urskilja visuella kontraster mellan exempelvis en symbol och dess bakgrund, och riskerar därför att missa information. Designa därför webbplatsen så att komponenter i gränssnittet och informationsbärande grafik har tillräckliga kontraster. Som komponenter räknas till exempel knappar och formulärfält. Som grafiska objekt räknas exempelvis ikoner och betydelsefulla delar av illustrationer och diagram (till exempel kurvor och pilar).\r\n\r\nDenna riktlinje liknar <a href=\"/126\">Använd tillräcklig kontrast mellan text och bakgrund (R126)</a> (som motsvarar WCAG-kriteriet 1.4.3). Men nu gäller alltså motsvarande krav även för innehåll som inte är text. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Bild, DOS-lagen, kontrast, Nytt i WCAG 2.1",
+		"Senast uppdaterad: ": "2019-02-25"
+	},{
+		"Riktlinje nr ": 113,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/113-tillganglig-video/",
+		"Namn ": "Använd webbvideo för att öka tillgängligheten",
+		"Beskrivning ": "Använd gärna video som komplement eller alternativ till andra presentationsformat. Texta och syntolka filmerna så kan fler ta del av innehållet.\r\n\r\n",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Omfattande riktlinje, syntolkning, teckenspråkstolkning, textning, tidsbaserad media, Tillgänglighet, Video",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 86,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/86-basera-inte-viktig-funktionalitet-pa-format-som-kraver-insticksprogram/",
+		"Namn ": "Basera inte viktig funktionalitet på format som kräver insticksprogram",
+		"Beskrivning ": "Flash, Quicktime och liknande ger ofta problem för de som använder hjälpmedel, eller som inte använder mus, även när webbläsaren har ett insticksprogram för att hantera dem. Låt därför ert viktigaste innehåll vara användbart även utan insticksprogram.",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tekniskt oberoende, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Beställare, Förvaltning, Gränssnitt, Innehåll, Navigering, Standarder, Testare, Utvecklare, Utveckling, Webbdesign",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 146,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/146-benamn-funktioner-konsekvent/",
+		"Namn ": "Benämn funktioner konsekvent",
+		"Beskrivning ": "Konsekvent benämning av saker på hela webbplatsen underlättar för alla användare att känna igen sig och minskar onödig kognitiv belastning.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 3,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/3-informera-om-myndighetens-uppdrag/",
+		"Namn ": "Beskriv ert uppdrag eller er affärsidé",
+		"Beskrivning ": "Informera om organisationens uppdrag eller företagets affärsidé och mål för att öka webbplatsens trovärdighet. Utgå från era prioriterade målgrupper och vad som är viktigast för dem att veta. ",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Förtroendeingivande",
+		"Taggar": "Förvaltning, Informationsstruktur, Innehåll, Lågt hängande frukt, Webbredaktör",
+		"Senast uppdaterad: ": "2015-08-26"
+	},{
+		"Riktlinje nr ": 19,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/19-skapa-sidor-med-information-om-hur-webbplatsen-fungerar-och-vad-den-innehaller/",
+		"Namn ": "Beskriv hur webbplatsen fungerar och vad den innehåller",
+		"Beskrivning ": "Beskriv hur användarna kan anpassa webbplatsen efter sina behov, hur de kan använda den och vad den innehåller, till exempel om det finns integrerade externa tjänster. Samla informationen under Om webbplatsen. Samlingssidan Om webbplatsen ska gå att komma åt från alla webbplatsens sidor. ",
+		"Prio ": 5,
+		"Princip(er) ": "Användbar, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Förvaltning, Innehåll, Webbredaktör",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 115,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/115-textalternativ/",
+		"Namn ": "Beskriv med text allt innehåll som inte är text",
+		"Beskrivning ": "Användare som är beroende av till exempel skärmläsare och punktdisplay behöver beskrivningar av allt innehåll som inte är text. Det gäller till exempel:\r\n<ul>\r\n \t<li>Bilder (förutom sådana som endast används för dekoration)</li>\r\n \t<li>Diagram</li>\r\n \t<li>Animationer</li>\r\n \t<li>Ljudsignaler</li>\r\n</ul>\r\nSe därför till att allt sådant innehåll beskrivs med hjälp av text, förutom i de undantagsfall som beskrivs i <abbr title=\"Web Content Accessibility Guidelines\">WCAG</abbr>-kriteriet.  Undantagen gäller framförallt sådana situationer där en beskrivande text skulle motverka innehållets syfte (till exempel när syftet med ett ljud är att testa användarens hörsel).",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "alt-text, bildbeskrivning, Bilder, bildtext, CAPTCHA, DOS-lagen, skärmläsare, talsyntes, textalternativ, textbeskrivning",
+		"Senast uppdaterad: ": "2020-10-14"
+	},{
+		"Riktlinje nr ": 8,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/8-bestam-malgrupp-syfte-och-sammanhang-for-din-text/",
+		"Namn ": "Bestäm målgrupp och syfte för webbtexterna",
+		"Beskrivning ": "Bestäm vilka användare ni främst vänder er till i webbtexterna, och vad användarna ska göra efter att ha läst varje text. Anpassa texten till de som ska läsa den, så att de uppfattar att de har kommit rätt, och så att de effektivt kan göra det de kom dit för. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, Klarspråk, Språk, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2017-10-30"
+	},{
+		"Riktlinje nr ": 71,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/71-identifiering-och-signering/",
+		"Namn ": "Bestäm om e-tjänsten behöver e-legitimation och signering",
+		"Beskrivning ": "Om era webbtjänster hanterar personlig information, kan användarna behöva identifiera sig och signera med en e-legitimation. Ta beslut om det innan ni bestämmer hur flödet genom e-tjänsten ska se ut.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande",
+		"Taggar": "Autentisering, Beställare, E-legitimation, E-tjänst, Inloggning, Process, Signering",
+		"Senast uppdaterad: ": "2017-06-24"
+	},{
+		"Riktlinje nr ": 167,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/167-bevara-tillganglighet-vid-konverteringar/",
+		"Namn ": "Bevara tillgänglighet vid konverteringar",
+		"Beskrivning ": "Om en webbsida gör om informationsinnehåll som innehåller tillgänglighetsdata måste dessa behållas i det nya formatet.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, en301549, en301549 utöver WCAG, Filformat, Tillgänglighet",
+		"Senast uppdaterad: ": "2020-10-23"
+	},{
+		"Riktlinje nr ": 78,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/78-brodsmulor-eller-sokstigar-i-e-tjanster/",
+		"Namn ": "Brödsmulor eller länkstigar i e-tjänster",
+		"Beskrivning ": "Se webbriktlinje 27",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2018-03-08"
+	},{
+		"Riktlinje nr ": 172,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/172-dokumentera-tillganglighetsfunktioner/",
+		"Namn ": "Dokumentera tillgänglighetsfunktioner",
+		"Beskrivning ": "Funktionalitet och innehåll med syfte att öka tillgängligheten ska dokumenteras, vara tillgänglig och lätt att hitta.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "dokumentation, DOS-lagen, en301549, en301549 utöver WCAG",
+		"Senast uppdaterad: ": "2020-12-14"
+	},{
+		"Riktlinje nr ": 116,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/116-alternativ-vid-enbart-ljud-video/",
+		"Namn ": "Erbjud alternativ om en inspelning enbart består av ljud eller video",
+		"Beskrivning ": "Användare som inte kan ta del av ljud- eller videoinspelningar ska ha en möjlighet att tillgodogöra sig innehållet med hjälp av en alternativ representation.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "alternativ, DOS-lagen, inspelningar, podcast",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 160,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/160-erbjud-alternativ-till-komplexa-fingerrorelser/",
+		"Namn ": "Erbjud alternativ till komplexa fingerrörelser",
+		"Beskrivning ": "Alla personer kan inte hantera komplexa rörelser på en pekskärm, så kallade fingergester. Detta gäller till exempel att svajpa (swipe) och gester som kräver flera fingrar (multi-touch) såsom dra isär och nyp ihop. Det kan bero på motoriska eller kognitiva begränsningar, vilket hjälpmedel en användare har eller användarens brist på kunskap om gränssnittet. Komplettera därför alltid sådana med enklare interaktion såsom klick, dubbelklick eller tryck, såvida inte rörelsen är avgörande för funktionaliteten. \r\n\r\nObservera att riktlinjen bara gäller webbplatsens eller appens gränssnitt. Det gäller inte operativsystemets eller webbläsarens funktioner, såsom horisontell svepning för att navigera i sidhistoriken. \r\n\r\nRiktlinjen undantar funktionalitet som naturligt kräver mer komplexa rörelser, till exempel att skriva sin signatur. \r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1, pekskärm",
+		"Senast uppdaterad: ": "2018-12-20"
+	},{
+		"Riktlinje nr ": 163,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/163-erbjud-alternativ-till-rorelsestyrning/",
+		"Namn ": "Erbjud alternativ till rörelsestyrning",
+		"Beskrivning ": "Se till att funktioner som aktiveras genom att användaren till exempel skakar, vrider, rör vid eller viftar framför enheten kan stängas av. Funktionerna ska även kunna aktiveras på något annat sätt. \r\n\r\n<a href=\"/files/2018/08/rorelsestyrning.png\"><img src=\"/files/2018/08/rorelsestyrning-300x287.png\" alt=\"Ovan: vridning av mobil medför förändring från läge 1 till läge 2. Nedan: Klick på knapp ger samma förändring.\" width=\"300\" height=\"287\" class=\"alignnone size-medium wp-image-19248\" /></a>\r\n\r\nDetta hjälper personer som till exempel har enheten fastsatt vid en permobil eller som av någon annan anledning inte har fysisk möjlighet att utföra liknande rörelser. Det finns också användare som oavsiktligt kan aktivera den här typen av kontroller på grund av ofrivilliga skakningar (så kallad essentiell tremor) eller andra motoriska störningar.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1, rörelsestyrning",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 32,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/32-erbjud-besokaren-alternativa-orienteringsstod/",
+		"Namn ": "Erbjud användarna flera olika sätt att navigera",
+		"Beskrivning ": "Användare har många olika strategier för att hitta på webbplatser. Erbjud därför fler sätt att navigera utöver sökfunktionen och den primära navigeringen/menyn.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Effektiv, Tillgänglig",
+		"Taggar": "Beställare, Design, DOS-lagen, Informationsstruktur, Innehåll, Länkstig, Navigering, Sök, Webbdesigner",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 75,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/75-gruppera-och-skapa-mojlighet-att-hoppa-forbi-delar-pa-sidorna/",
+		"Namn ": "Erbjud möjlighet att hoppa förbi återkommande innehåll",
+		"Beskrivning ": "Bygg in genvägar i strukturen. Det kan ta lång tid att ta sig till olika delar av ett dokument när man navigerar med tangentbord, eftersom man normalt måste stega sig förbi varje länk. Webbplatser som har ett omfattande och komplext menysystem med många länkar kan försvåra avsevärt för många användare. ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Användbarhet, DOS-lagen, genväg, Gränssnitt, Informationsstruktur, Interaktionsdesign, Lågt hängande frukt, Rubrik, skärmläsare, Tillgänglighet, wai-aria",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 52,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/52-forpopulera-formular/",
+		"Namn ": "Fyll formulär med kända uppgifter",
+		"Beskrivning ": "Gör det enkelt för användarna att fylla i formulär genom att i förväg fylla i de uppgifter du redan har. ",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Användbarhet, Beställare, Formulär, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2021-01-11"
+	},{
+		"Riktlinje nr ": 80,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/80-folj-standarder/",
+		"Namn ": "Följ kodstandarder",
+		"Beskrivning ": "Använd standarder så långt som möjligt. Ett skäl till att webben har blivit så användbar är att den bygger på öppna standarder. Tack vare detta kan vi utveckla och använda webben med verktyg från olika leverantörer. Öppna standarder möjliggör konkurrens, underlättar innovationer och är ett skydd mot att en eller ett fåtal aktörer tar över och kontrollerar webben. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tekniskt oberoende, Åtkomlig över tid",
+		"Taggar": "Beställare, Standarder, Test, Testare, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2020-12-23"
+	},{
+		"Riktlinje nr ": 18,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/18-folj-msbs-rekommendationer-for-krisinformation-pa-webben/",
+		"Namn ": "Följ MSB:s rekommendationer för krisinformation på webben",
+		"Beskrivning ": "Webben ökar möjligheterna till en snabb och samordnad kriskommunikation. Hur ni kommunicerar med era målgrupper under en eventuell kris är grundläggande för hur ni hanterar krisen i sin helhet. Ni behöver ha god beredskap inom både teknik, information och organisation för att ni lätt ska kunna anpassa informationen på webbplatsen utifrån krisens natur och utveckling. ",
+		"Prio ": 2,
+		"Princip(er) ": "Förtroendeingivande",
+		"Taggar": "Innehåll, Krisinformation, Omfattande riktlinje, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2016-04-26"
+	},{
+		"Riktlinje nr ": 37,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/37-folj-upp-hur-webbplatsen-anvands/",
+		"Namn ": "Följ upp hur webbplatsen används",
+		"Beskrivning ": "En förutsättning för att upprätthålla en bra webbplats med hög kvalité på funktionalitet och innehåll är att löpande följa upp och utvärdera hur den används. Några vanliga metoder för uppföljning är användningstester, expertutvärderingar, trafik- och sökordsanalys.",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Förvaltning, Innehållsansvarig, Uppföljning, Utvärdering, Webbredaktör",
+		"Senast uppdaterad: ": "2018-05-22"
+	},{
+		"Riktlinje nr ": 1,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/1-utga-fran-wcag-2-1-niva-aa/",
+		"Namn ": "Följ WCAG 2.1 nivå AA",
+		"Beskrivning ": "Följ Web Content Accessibility Guidelines (WCAG)  för att göra webbplatsen, innehållet och era tjänster tillgängliga för en bred mottagargrupp, inklusive personer med olika typer av funktionsnedsättningar. Detta maximerar värdet på de resurser ni lägger på webbutveckling och ökar samtidigt möjligheten för alla att delta i samhället på lika villkor.",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Beställare, Förvaltning, Informatör, Nämner lag, Omfattande riktlinje, Språk, Tillgänglighet, Utvecklare, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-12-21"
+	},{
+		"Riktlinje nr ": 25,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/25-forvaltningsorganisationen-och-dess-kunskap-ska-sta-i-proportion-till-webbplatsens-storlek-och-ambitioner/",
+		"Namn ": "Förvaltningsorganisationen och dess kunskap ska stå i proportion till webbplatsens storlek och ambitioner",
+		"Beskrivning ": "Se till att ni har den tid och kunskap som krävs för att planera och samordna förvaltningen av webbplatsen. Det är en förutsättning för att det publicerade materialet ska kunna hålla en hög nivå av användbarhet och tillgänglighet.",
+		"Prio ": 3,
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, Klarspråk, Lättläst, Språk, Terminologi, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 10,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/10-ge-all-information-pa-begriplig-svenska/",
+		"Namn ": "Ge all information på begriplig svenska",
+		"Beskrivning ": "All information på webbplatsen ska skrivas på begriplig svenska. Målet är att så många personer som möjligt ska kunna tillgodogöra sig innehållet, även personer med funktionsnedsättningar och personer med svenska som andraspråk.  ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, Klarspråk, Lättläst, Nämner lag, Omfattande riktlinje, Språk, Terminologi, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-02-15"
+	},{
+		"Riktlinje nr ": 125,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/125-kunna-pausa-ljud/",
+		"Namn ": "Ge användaren möjlighet att pausa, stänga av eller sänka ljud",
+		"Beskrivning ": "Det ska alltid vara möjligt att pausa, stoppa eller sänka sådant ljud som spelas upp automatiskt.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "distraktion, DOS-lagen, kontrast, Ljud",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 131,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/131-ge-anvandarna-mojlighet-att-justera-tidsbegransningar/",
+		"Namn ": "Ge användarna möjlighet att justera tidsbegränsningar",
+		"Beskrivning ": "Användare behöver ibland möjlighet att justera tidsbegränsningar som finns inbyggda i systemet, till exempel i en beställningsfunktion. Ge dem det!",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Tidsbegränsning, timeout, utloggning",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 132,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/132-ge-anvandarna-mojlighet-att-pausa-eller-stanga-av-rorelser/",
+		"Namn ": "Ge användarna möjlighet att pausa eller stänga av rörelser",
+		"Beskrivning ": "Personer som har svårt att fokusera, läsa eller behålla koncentration behöver kunna pausa rörelser eller stänga av visuella distraktioner.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 9,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/9-ge-dokument-tydliga-filnamn/",
+		"Namn ": "Ge dokument filnamn som beskriver innehållet",
+		"Beskrivning ": "Se till att dokument du länkar till har så tydliga filnamn att man förstår av filnamnet vad dokumentet innehåller. Använd inte interna arbetsnamn som filnamn. Undvik att döpa dokument efter artikelnummer, diarienummer, blankettnummer eller liknande. Om artikel- eller blankettnumren är kända hos användarna bör de dock vara en del av filnamnet.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Dokument, Förvaltning, Innehåll, Länkar, Webbredaktör",
+		"Senast uppdaterad: ": "2017-12-15"
+	},{
+		"Riktlinje nr ": 76,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/76-dop-e-tjanster-utifran-vad-de-gor-for-anvandaren/",
+		"Namn ": "Ge e-tjänster namn utifrån användarnas perspektiv",
+		"Beskrivning ": "Fokusera på det användarna vill uppnå, och använd ord som anknyter till det, när du namnger en e-tjänst. Det gör det lättare för användarna att hitta till rätt tjänst.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar",
+		"Taggar": "användarcentrering, E-tjänst, Innehåll, Namngivning, Språk, Terminologi, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2018-07-11"
+	},{
+		"Riktlinje nr ": 149,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/149-ge-forslag-pa-hur-fel-kan-rattas-till/",
+		"Namn ": "Ge förslag på hur fel kan rättas till",
+		"Beskrivning ": "När fel upptäcks automatiskt bör förslag på korrekt inmatning presenteras för användaren om det är möjligt.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, felmeddelande",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 14,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/14-ge-information-pa-de-nationella-minoritetsspraken/",
+		"Namn ": "Ge information på de nationella minoritetsspråken",
+		"Beskrivning ": "Personer som talar något av våra fem nationella minoritetsspråk har särskilda rättigheter till sina språk. Minoritetsspråkstalare ska till exempel kunna använda sitt modersmål i kontakt med myndigheter. De nationella minoritetsspråken i Sverige är finska, samiska, meänkieli, romska (romani chib) och jiddisch. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, minoritetsspråk, Nämner lag, Språk, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2017-07-04"
+	},{
+		"Riktlinje nr ": 15,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/15-ge-information-pa-engelska-och-andra-sprak/",
+		"Namn ": "Ge information på engelska och andra språk",
+		"Beskrivning ": "Många som inte har svenska som modersmål behöver få information på sitt eget språk. Det är allra viktigast för personer som inte behärskar svenska alls, som nyanlända invandrare, men är ofta till stor hjälp även för den som kan lite svenska. Utöver kraven på <a title=\"Ge all information på begriplig svenska\" href=\"http://webbriktlinjer.se/r/10-ge-all-information-pa-begriplig-svenska/\">begriplig svenska för alla (se R10)</a> och <a title=\"Ge information på de nationella minoritetsspråken\" href=\"http://webbriktlinjer.se/r/14-ge-information-pa-de-nationella-minoritetsspraken/\">information på nationella minoritetsspråk (se R14)</a>, bör myndigheter och andra offentliga organ därför översätta delar av sin information till andra språk.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, Språk, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2017-11-15"
+	},{
+		"Riktlinje nr ": 12,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/12-ge-information-pa-lattlast/",
+		"Namn ": "Ge information på lättläst svenska",
+		"Beskrivning ": "Den som har lässvårigheter kan ha svårt att tillgodogöra sig texter, även om de är skrivna på ett klart och begripligt språk. Därför kan ni behöva ge information på lättläst svenska. Lättläst svenska är anpassad efter läsaren. Språket är enklare och texterna kortare, men all viktig information ska ändå finnas med. Även layout och bilder bör anpassas till läsaren.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Begriplig, Beställare, Förvaltning, Informatör, Innehåll, Lättläst, Språk, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-02-09"
+	},{
+		"Riktlinje nr ": 13,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/13-ge-information-pa-svenskt-teckensprak/",
+		"Namn ": "Ge information på svenskt teckenspråk",
+		"Beskrivning ": "Många döva och hörselskadade har svenskt teckenspråk som förstaspråk och svenska som andraspråk. Teckenspråkiga personer behöver få information på sitt förstaspråk, på samma sätt som andra minoritetsgrupper. Nyinflyttade teckenspråkiga personer lär sig i regel det svenska teckenspråket ganska snabbt. Däremot tar det längre tid för dem att lära sig skriven svenska.\r\nTänk på att det svenska teckenspråket är ett annat språk än svenska.  Det är inte en tecknad representation av svenska. Det finns många olika teckenspråk i världen.\r\n",
+		"Prio ": 2,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, Språk, Teckenspråk, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2018-12-07"
+	},{
+		"Riktlinje nr ": 150,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/150-ge-mojlighet-att-angra-korrigera-eller-bekrafta-viktiga-transaktioner/",
+		"Namn ": "Ge möjlighet att ångra, korrigera eller bekräfta vid viktiga transaktioner",
+		"Beskrivning ": "Den som råkar göra något fel kan slippa mycket besvär om felet kan upptäckas och åtgärdas direkt.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "bekräftelse, DOS-lagen, Felhantering",
+		"Senast uppdaterad: ": "2018-03-09"
+	},{
+		"Riktlinje nr ": 112,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/112-ordforslag/",
+		"Namn ": "Ge ordförslag vid sökning och inmatning",
+		"Beskrivning ": "Underlätta för användarna genom att ge dem förslag på sökord när de utför en sökning på en webbplats. Funktionen ger bättre sökträffar, underlättar för vissa personer med skrivsvårigheter samt kan spara tid och förenkla för alla användare.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Tillgänglig",
+		"Taggar": "autocomplete, Formulär, rättstavning, stavning, synonymer, Sök, wai-aria",
+		"Senast uppdaterad: ": "2018-08-23"
+	},{
+		"Riktlinje nr ": 77,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/77-notifiera-och-ge-anvandaren-aterkoppling/",
+		"Namn ": "Ge tydlig återkoppling i e-tjänster",
+		"Beskrivning ": "Ge tydlig återkoppling till användarna i ärenden som utförs via webben och e-tjänster. Vanliga automatiserade funktioner för kommunikation är meddelande, granskning, kvittens och mottagningsbevis.",
+		"Prio ": 2,
+		"Princip(er) ": "Effektiv",
+		"Taggar": "Användbarhet, Beställare, E-tjänst, Formulär, Utveckling, Webbdesign, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2014-10-06"
+	},{
+		"Riktlinje nr ": 39,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/39-ge-webbplatsen-en-god-lasbarhet/",
+		"Namn ": "Ge webbplatsen en god läsbarhet",
+		"Beskrivning ": "Typsnittet och luftigheten i texten påverkar webbplatsens läsbarhet. Texten bör vara så stor att den är bekväm att läsa. Alltför liten text, stora textmassor och många olika typsnitt gör texterna svårlästa. Begränsa därför antalet typsnitt på webbplatsen och använd alltid flexibla måttenheter, till exempel em eller procent, så att det går att att påverka storleken på texten med webbläsarens inbyggda funktionalitet.\r\n\r\nDen största delen information på en webbplats är vanligtvis textbaserad. Underlätta för alla användare genom att anpassa webbplatsen för olika hjälpmedel och ge löptext och övriga textelement god läsbarhet.",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Läsbarhet, Typografi, Typsnitt, Utvecklare, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2020-10-08"
+	},{
+		"Riktlinje nr ": 114,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/114-grundlaggande-rekommendationer-for-appar/",
+		"Namn ": "Grundläggande rekommendationer för appar",
+		"Beskrivning ": "Komplettera gärna med en app när webben inte räcker till för att täcka målgruppens behov. Det kan till exempel handla om att viss ny funktionalitet som fungerar i en app inte går att erbjuda med en responsiv webbplats. Se till att appen följer riktlinjer för tillgänglighet. De flesta riktlinjer som gäller för webben är även tillämpbara på appar.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande, Tekniskt oberoende, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Applikation, DOS-lagen, mobil, Omfattande riktlinje",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 53,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/53-gruppera-formularets-falt/",
+		"Namn ": "Gruppera formulärets fält",
+		"Beskrivning ": "Formulär med många inmatningsfält blir tydligare och enklare att förstå om man delar upp dem i flera delar. Delarna kan antingen presenteras i olika grupper på en webbsida eller delas upp på flera sidor.",
+		"Prio ": 3,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Användbarhet, Beställare, Formulär, Stilmallar, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2014-10-02"
+	},{
+		"Riktlinje nr ": 90,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/90-gor-det-enkelt-att-ringa-upp-telefonnummer/",
+		"Namn ": "Gör det enkelt att ringa upp telefonnummer",
+		"Beskrivning ": "Märk upp telefonnummer med tel-länkar, så att man kan ringa upp ett telefonnummer direkt, genom att klicka på det. ",
+		"Prio ": 5,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Förvaltning, Innehåll, Länkar, Telefon, Testare, Utvecklare, Webbredaktör",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 28,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/28-det-viktigaste-ska-vara-enkelt-att-hitta/",
+		"Namn ": "Gör det lätt  att hitta det viktigaste",
+		"Beskrivning ": "Gör det lätt för användarna att hitta rätt på webbplatsen. Utgå från deras behov och perspektiv när ni strukturerar information och skriver rubriker, länkar och menyer. ",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Design, Förvaltning, Informationsstruktur, Navigering, Språk, Utveckling, Webbdesigner, Webbredaktör",
+		"Senast uppdaterad: ": "2017-12-29"
+	},{
+		"Riktlinje nr ": 4,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/4-informera-om-myndighetens-kontaktvagar/",
+		"Namn ": "Gör det lätt att komma i kontakt med er",
+		"Beskrivning ": "Många besöker en webbplats för att komma i kontakt med en organisation. Gör det därför lätt för användarna att komma i kontakt med er genom att ange samtliga möjliga kontaktvägar såsom adresser, sociala mediekanaler, telefonnummer och öppettider.",
+		"Prio ": 2,
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "Förvaltning, Informationsstruktur, Innehåll, Navigering, sidansvarig, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2018-09-07"
+	},{
+		"Riktlinje nr ": 49,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/49-gor-det-mojligt-att-tillhandahalla-information-over-tid/",
+		"Namn ": "Gör det möjligt att få ut avpublicerat material",
+		"Beskrivning ": "Om ni är en myndighet och publicerar något på webbplatsen upprättas allmänna handlingar. För att allmänhetens rätt till insyn ska kunna tillgodoses över tid krävs att ni kan tillhandahålla även den information som inte längre finns tillgänglig på den aktiva webbplatsen. ",
+		"Prio ": 3,
+		"Princip(er) ": "Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Arkiv, Arkivredovisning, Avpublicering, Bevarande, E-arkiv, Förvaltning, Gallring, Nämner lag",
+		"Senast uppdaterad: ": "2018-03-23"
+	},{
+		"Riktlinje nr ": 44,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/44-gor-det-mojligt-att-lasa-och-soka-i-diariet/",
+		"Namn ": "Gör det möjligt att läsa och söka i diariet",
+		"Beskrivning ": "Om din organisation har ett offentligt diarium kan ni öka er transparens genom att publicera diariet på webben. Innan ni gör diariet sökbart för användarna måste dock intresset av ökad insyn ställas mot skyddet av den personliga integriteten.",
+		"Prio ": 4,
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "Beställare, Diarium, Innehåll, Nämner lag, Utveckling",
+		"Senast uppdaterad: ": "2017-12-08"
+	},{
+		"Riktlinje nr ": 87,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/87-gor-det-mojligt-att-prenumerera-pa-information/",
+		"Namn ": "Gör det möjligt att prenumerera på information",
+		"Beskrivning ": "Gör det möjligt att prenumerera på information från er webbplats. Då kan användarna enkelt hålla sig underrättade om vad som händer inom ert område.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Tekniskt oberoende",
+		"Taggar": "atom, Beställare, epost, nyhetsbrev, Prenumerera, rss, Syndikering, Utvecklare, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 161,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/161-gor-det-mojligt-att-angra-klick/",
+		"Namn ": "Gör det möjligt att ångra klick",
+		"Beskrivning ": "Den som använder pekskärm eller pekdon som exempelvis mus behöver kunna ångra sig om knappen eller trycket skedde av misstag. Erbjud därför minst en sådan möjlighet. \r\n\r\nMöjligheten att ångra ett påbörjat klick är värdefull därför att den minskar risken för att aktivera funktioner av misstag. Vem som helst kan råka trycka vid fel plats eller tillfälle, och det är extra lätt hänt för personer med vissa funktionsnedsättningar (exempelvis begränsad motorisk kontroll eller synnedsättning).\r\n\r\nDenna riktlinje berör dig som programmerar användargränssnitt (“front-end”) med exempelvis Javascript, men inte dig som enbart jobbar med text, bild och formgivning.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, inmatning, mus, Nytt i WCAG 2.1, pekdon, ångra",
+		"Senast uppdaterad: ": "2018-12-20"
+	},{
+		"Riktlinje nr ": 89,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/89-gor-det-mojligt-for-andra-att-ateranvanda-webbplatsens-innehall/",
+		"Namn ": "Gör det möjligt för andra att återanvända webbplatsens innehåll",
+		"Beskrivning ": "Gör tjänster och information på er webbplats åtkomliga för andra system, så att andra kan återanvända ert innehåll. Överväg att själva syndikera och förädla material för att skapa större nytta åt era användare. ",
+		"Prio ": 3,
+		"Princip(er) ": "Effektiv, Åtkomlig över tid",
+		"Taggar": "Beställare, Innehåll, Nämner lag, Psi-direktivet, Syndikering, Utvecklare, Utveckling, Webbplatsansvarig, Webbredaktör, återanvändning, öppna data",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 136,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/136-gor-en-logisk-tab-ordning/",
+		"Namn ": "Gör en logisk tab-ordning",
+		"Beskrivning ": "Testa tab-ordningen genom att granska en sida av varje sidtyp utan hjälp av tryckkänslig skärm, mus eller annat pekdon.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 166,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/166-gor-inte-identifiering-beroende-av-bara-en-biometrisk-egenskap/",
+		"Namn ": "Gör inte identifiering beroende av bara en biometrisk egenskap",
+		"Beskrivning ": "Eftersom människors kroppar är lite olika (exempelvis har inte alla fingrar) måste identifiering kunna ske med mer än igenkänning av en enda biologisk egenskap.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "biometri, DOS-lagen, E-tjänst, en301549, en301549 utöver WCAG, identifiering, Inloggning, Tillgänglighet",
+		"Senast uppdaterad: ": "2020-10-23"
+	},{
+		"Riktlinje nr ": 123,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/123-ej-beroende-av-sensoriska-kannetecken/",
+		"Namn ": "Gör inte instruktioner beroende av sensoriska kännetecken",
+		"Beskrivning ": "Även den som inte kan uppfatta form, storlek eller har möjlighet att relatera till höger eller vänster behöver kunna förstå hänvisningar till navigation och instruktioner.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 34,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/34-gor-lankar-och-klickbara-ytor-enkla-att-anvanda-for-alla/",
+		"Namn ": "Gör länkar, klickbara ytor och menyer användbara för alla",
+		"Beskrivning ": "Klickbara ytor, till exempel textlänkar, bildobjekt och knappar, spelar en viktig roll på webben. Användarna behöver lätt kunna förstå vad som är klickbart. Se därför till att markera samma typ av länkar på samma sätt över hela webbplatsen.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Design, Länkar, Navigering, Stilmallar, Tillgänglighet, Webbdesign, Webbdesigner",
+		"Senast uppdaterad: ": "2018-06-29"
+	},{
+		"Riktlinje nr ": 43,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/43-mojliggor-sokning-i-register-och-databaser-med-publik-information/",
+		"Namn ": "Gör register och databaser med publik information sökbara",
+		"Beskrivning ": "Användarna har ofta stor nytta av att själva kunna söka i publika register och databaser. Överväg därför att göra sådana sökbara, men ta hänsyn till vilka risker och behov som finns.",
+		"Prio ": 3,
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "Beställare, Databas, Innehåll, Psi-direktivet, Register, Utveckling",
+		"Senast uppdaterad: ": "2020-09-09"
+	},{
+		"Riktlinje nr ": 62,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/62-skapa-texter-som-ar-latta-att-overskada/",
+		"Namn ": "Gör texterna överskådliga",
+		"Beskrivning ": "Ingångssidan och andra huvudsidor på webbplatsen bör vara relativt korta, för att ge användarna en överblick över innehållet. Undersidor kan innehålla lite längre texter.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, Klarspråk, Navigering, Språk, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-09-25"
+	},{
+		"Riktlinje nr ": 165,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/165-gor-tillganglighetsfunktioner-atkomliga/",
+		"Namn ": "Gör tillgänglighetsfunktioner åtkomliga",
+		"Beskrivning ": "Tänk efter och testa så att ni inte råkar göra funktioner för ökad tillgänglighet (exempelvis lyssnafunktion eller syntolkning) omöjliga att nå för målgruppen. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "appar, DOS-lagen, en301549, en301549 utöver WCAG, Tillgänglighet",
+		"Senast uppdaterad: ": "2020-10-22"
+	},{
+		"Riktlinje nr ": 60,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/60-anvand-knappar-pa-ett-andamalsenligt-satt/",
+		"Namn ": "Gör tydliga användbara knappar",
+		"Beskrivning ": "Se till att knappar är lätta att förstå och använda.  Namnge knapparna tydligt, och på vedertagna sätt. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Avbryt, Beställare, Formulär, Knappar",
+		"Senast uppdaterad: ": "2018-09-03"
+	},{
+		"Riktlinje nr ": 95,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/95-webbadresser-urler-ska-vara-bokmarkningsbara-i-webblasaren/",
+		"Namn ": "Gör webbadresser bokmärkningsbara",
+		"Beskrivning ": "Se till att användare som gör bokmärken till sidor kommer tillbaka till rätt sida i framtiden.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Användbarhet, bokmärke, Länkar, sociala medier, url, webbadress",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 16,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/16-hall-god-kvalitet-pa-oversattningarna/",
+		"Namn ": "Håll god kvalitet på översättningarna",
+		"Beskrivning ": "Språklagens krav på vårdat, <a href=\"/r/10-ge-all-information-pa-begriplig-svenska/\">enkelt och begripligt språk (se R10)</a> gäller alla språk som används i offentlig verksamhet, även svenskt teckenspråk. Här följer några råd med syfte att upprätthålla kraven på begriplighet också i översatta texter.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Informatör, Innehåll, Nämner lag, Språk, Utveckling, Webbplatsansvarig, Webbredaktör, Översättning",
+		"Senast uppdaterad: ": "2018-01-29"
+	},{
+		"Riktlinje nr ": 20,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/20-upplys-hur-juridisk-information-och-kakor-hanteras/",
+		"Namn ": "Informera om hur personuppgifter, kakor (cookies) mm hanteras",
+		"Beskrivning ": "Det finns lagar som reglerar vad du som ansvarig för en webbplats är skyldig att informera besökarna om. Bland annat ska du upplysa om hur personuppgifter och kakor hanteras på webbplatsen.",
+		"Prio ": 2,
+		"Princip(er) ": "Förtroendeingivande",
+		"Taggar": "Cookies, Förvaltning, Innehåll, Integritet, Kakor, Nämner lag, Omfattande riktlinje, Personuppgifter, Spårning",
+		"Senast uppdaterad: ": "2021-01-11"
+	},{
+		"Riktlinje nr ": 74,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/74-presentera-externa-tjanster-pa-ett-enhetligt-satt/",
+		"Namn ": "Integrera externa tjänster så att de smälter in",
+		"Beskrivning ": "Tjänster som utvecklas och driftas externt blir allt vanligare. Även tjänster som utvecklas internt utvecklas ofta i separata system, och är skilda från webbplatsen. Sträva efter att integrera dem på webbplatsen så pass mycket att användaren inte upplever att de är fristående och så att de inte ser märkbart annorlunda ut. De ska smälta in i det grafiska formspråket och inte ha andra interaktionsmönster än webbplatsen i övrigt. På så vis förbättrar ni användarupplevelsen och tillgängligheten på webbplatsen.",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Beställare, E-tjänst, integration, Utveckling",
+		"Senast uppdaterad: ": "2018-05-29"
+	},{
+		"Riktlinje nr ": 11,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/11-kombinera-skrift-med-ljud-bild-och-film/",
+		"Namn ": "Kombinera skrift med ljud, bild och film",
+		"Beskrivning ": "Kombinera skriven text med ljud, bild och film för att göra informationen mer tillgänglig och lättare för alla att förstå. Särskilt viktigt är detta för personer med olika typer av lässvårigheter. Personer med synnedsättning behöver information i talad form.",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Flerspråkighet, Förvaltning, Innehåll, Klarspråk, Lättläst, skärmläsare, Språk, Video, Webbredaktör",
+		"Senast uppdaterad: ": "2018-10-23"
+	},{
+		"Riktlinje nr ": 36,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/36-kontrollera-regelbundet-besoksstatistik-och-sokbeteende/",
+		"Namn ": "Kontrollera besöksstatistiken och sökbeteendet regelbundet",
+		"Beskrivning ": "Ju mer ni vet om era användares beteende, desto lättare kan ni anpassa innehållet till deras behov. Kontrollera vilka delar av webbplatsen som besöks mest respektive minst, och hur webbplatsens sökfunktion används.",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Effektiv",
+		"Taggar": "Förvaltning, Integritet, Personuppgifter, Spårning, Statistik, Systemutvecklare, Sök, Uppföljning, Utveckling, Utvärdering",
+		"Senast uppdaterad: ": "2018-05-22"
+	},{
+		"Riktlinje nr ": 72,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/72-krav-inte-sakrare-inloggning-an-vad-informationen-kraver/",
+		"Namn ": "Kräv inte säkrare inloggning än vad informationen kräver",
+		"Beskrivning ": "När ni väljer om en e-tjänst ska ha stöd för identifiering eller signering ska ni ta hänsyn till vilken information det gäller. Ha inte en för hög säkerhetsnivå. Det blir onödigt krångligt för användarna. Ha givetvis heller inte en för låg säkerhet som kan få negativa konsekvenser för användarna.",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "anonymitet, Beställare, identifiering, Inloggning, säkerhet, Utveckling",
+		"Senast uppdaterad: ": "2017-12-18"
+	},{
+		"Riktlinje nr ": 51,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/51-lyft-fram-det-viktigaste/",
+		"Namn ": "Lyft fram det viktigaste i texten",
+		"Beskrivning ": "Se till att det viktigaste i varje text och avsnitt lyfts upp och lyfts fram tydligt. Se till att texter inte är onödigt långa, och att de inte har viktigt innehåll längre ner. Risken är att användarna missar det viktiga, eller får lägga onödigt lång tid på att hitta det.  ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, Klarspråk, Lättläst, Språk, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-10-02"
+	},{
+		"Riktlinje nr ": 57,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/57-se-till-att-anvandaren-kan-fylla-i-informationen-pa-de-satt-som-ar-naturliga-for-anvandaren/",
+		"Namn ": "Låt användarna fylla i information i valfritt format",
+		"Beskrivning ": "Användarna ska enkelt kunna fylla i information som efterfrågas på webbplatsen, utan att få upp felmeddelanden som går att undvika genom programmering. Ett vanligt exempel är alla de sätt man kan skriva ett personnummer, till exempel 630125-0000 eller 196301250000. Skapa funktioner som ger det ifyllda det format som systemet behöver.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Beställare, Formulär, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2018-07-06"
+	},{
+		"Riktlinje nr ": 33,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/33-genomgangssidor-ska-guida-anvandaren-till-innehallet/",
+		"Namn ": "Låt genomgångssidor orientera användarna",
+		"Beskrivning ": "Riktlinjen har upphört",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2018-03-08"
+	},{
+		"Riktlinje nr ": 56,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/56-lat-inte-en-webbadress-sluta-fungera/",
+		"Namn ": "Låt inte en webbadress sluta fungera",
+		"Beskrivning ": "Det finns ett stort värde i de länkar som leder till er webbplats, både för användarna som vill kunna hitta den, och för er i sökmotorernas rankning. Se därför till att länkarna fortsätter att fungera även på lång sikt. De ska inte sluta fungera om ni byter publiceringsverktyg. ",
+		"Prio ": 2,
+		"Princip(er) ": "Effektiv, Förtroendeingivande, Åtkomlig över tid",
+		"Taggar": "Beständig, Hållbar, SEO, url, Utvecklare, Utveckling, webbadress",
+		"Senast uppdaterad: ": "2018-02-08"
+	},{
+		"Riktlinje nr ": 31,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/31-alla-sidor-ska-ha-lankar-till-startsidan-och-andra-sidor-som-ar-viktiga-for-orienteringen/",
+		"Namn ": "Länka alla sidor till startsidan",
+		"Beskrivning ": "Det går inte att förutse på vilken webbsida användarna börjar sina besök, eller när de behöver hjälp för att leta vidare. Se därför till att alla sidor på webbplatsen har länkar till sidor och funktioner som är viktiga för navigeringen. ",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Design, Landningssida, Länkar, Navigering, Systemutvecklare, Utveckling, Webbdesigner, Webbredaktör",
+		"Senast uppdaterad: ": "2018-02-12"
+	},{
+		"Riktlinje nr ": 101,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/101-markera-tydligt-vilka-falt-som-ar-obligatoriska/",
+		"Namn ": "Markera obligatoriska fält i formulär",
+		"Beskrivning ": "Informera användaren om vilka fält i ett formulär som är obligatoriska, för att minska risken att onödig tid läggs på rättning av felaktigt eller ofullständigt ifyllda formulär.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Användbarhet, Användbarhetsdesigner, felmeddelande, Formgivare, Formulär, Gränssnitt, Interaktionsdesign, Obligatorisk, required, Test, Testare, Tillgänglighet, Utvecklare, Utveckling, Webbdesign",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 140,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/140-markera-element-i-fokus/",
+		"Namn ": "Markera tydligt vilket fält eller element som är i fokus",
+		"Beskrivning ": "Den som navigerar med t.ex. tab-tangenten behöver få veta var fokus ligger. Standardmarkeringen är ofta en tunn linje som är svår att se. \r\nGör markeringen tydlig, till exempel med en CSS-regel.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Lågt hängande frukt",
+		"Senast uppdaterad: ": "2020-12-23"
+	},{
+		"Riktlinje nr ": 50,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/50-minimera-antal-falt-och-obligatoriska-falt-i-formular/",
+		"Namn ": "Minimera antalet fält i formulär",
+		"Beskrivning ": "Använd så få fält som möjligt i formulär. Det ökar läsbarheten och användbarheten. Minimera särskilt antalet obligatoriska fält. Endast de som är absolut nödvändiga för att ni ska få in tillräckligt med uppgifter bör vara obligatoriska.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Användbarhet, Beställare, Formulär, Utvecklare, Utveckling, Webbdesign",
+		"Senast uppdaterad: ": "2014-09-24"
+	},{
+		"Riktlinje nr ": 103,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/103-markera-citat-i-koden/",
+		"Namn ": "Märk upp citat i koden",
+		"Beskrivning ": "Om ni använder citat i texter ska de märkas upp som citat i koden. Då kan ni lätt ge citat ett eget grafiskt utseende via css. Märkningen och utseendet tydliggör för användarna vad som är ett citat från viss person, till skillnad från vanlig text som ni själva som avsändare står för. Hjälpmedel kan också behöva korrekt kodade citat för att kunna ange för användarna när något är ett citat. \r\n\r\n<div class=\"utkast\">Riktlinjens innehåll är fortfarande korrekt, men vi har valt att ta bort den från listningar eftersom den är relativt lågprioriterad och antalet riktlinjer lätt blir överväldigande.</div>",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2017-10-01"
+	},{
+		"Riktlinje nr ": 154,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/154-mark-upp-vanliga-formularfalt-i-koden/",
+		"Namn ": "Märk upp vanliga formulärfält i koden",
+		"Beskrivning ": "Hjälp dina användare att fylla i inmatningsfält genom att i koden ange vilken typ av innehåll som förväntas. Då kan webbläsare eller hjälpmedel ibland automatiskt föreslå inmatning (baserat på till exempel tidigare inmatning i fält av samma typ) i vanliga formulärfält (såsom gatu- och postadress). Systemet kan också ytterligare hjälpa användaren genom att presentera fältet på ett sätt (till exempel med en symbol) som användaren känner igen. \r\n\r\nDet är bra för alla användare, men kanske framför allt för personer med vissa kognitiva och motoriska funktionsnedsättningar. Det underlättar också för användare som inte behärskar språket så bra.",
+		"Prio ": 1,
+		"Princip(er) ": "Effektiv, Tillgänglig",
+		"Taggar": "autocomplete, DOS-lagen, Formulär, Nytt i WCAG 2.1, symboler, sökförslag",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 38,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/38-ta-tillvara-synpunkter-och-onskemal-om-forandringar-pa-webbplatsen/",
+		"Namn ": "Möjliggör synpunkter, frågor och dialog",
+		"Beskrivning ": "Ge användarna möjlighet att lämna förslag och rapportera in felaktigheter om er webbplats och verksamhet. Då får du värdefull information om hur webbplatsen kan förbättras, bygger förtroende och ger er möjlighet att utveckla verksamheten.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande",
+		"Taggar": "Förvaltning, Innehållsansvarig, Uppföljning, Utvärdering, Webbredaktör",
+		"Senast uppdaterad: ": "2018-02-12"
+	},{
+		"Riktlinje nr ": 54,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/54-optimera-webbplatsen-for-basta-prestanda/",
+		"Namn ": "Optimera webbplatsen för bästa prestanda",
+		"Beskrivning ": "Optimera tjänsten så att den laddar snabbt, svarar snabbt på interaktion och kräver så lite som möjligt av användarens utrustning och uppkoppling. Dålig prestanda leder till negativa användarupplevelser, hinder för användning, försämrat genomslag (till exempel genom sämre rankning i sökmotorer) och slöseri med resurser. Bra prestanda kan till exempel uppnås genom att inte överföra mer data än nödvändigt.",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Cache, CDN, Komprimering, Omfattande riktlinje, Optimering, Prestanda, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2018-05-03"
+	},{
+		"Riktlinje nr ": 133,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/133-orsaka-inte-epileptiska-anfall-genom-blinkande/",
+		"Namn ": "Orsaka inte epileptiska anfall genom blinkande",
+		"Beskrivning ": "Personer med en viss kategori av epilepsi kan få krampanfall om de utsätts för snabbt blinkande “flimmer” som upptar en tillräckligt stor del av synfältet.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 45,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/45-planera-for-langsiktigt-bevarande-redan-vid-utveckling-av-webbplatsen/",
+		"Namn ": "Planera för långsiktigt bevarande redan vid utveckling av webbplatsen",
+		"Beskrivning ": "Planera redan i utvecklingsfasen för att bevara och göra informationen på webbplatsen tillgänglig över tid. Det kan innebära lägre kostnad och högre effektivitet för verksamheten.",
+		"Prio ": 2,
+		"Princip(er) ": "Åtkomlig över tid",
+		"Taggar": "Arkiv, Arkivering, Beställare, Bevarande, Bevarandeformat, Format, Förvaltning, Gallring, Kravställare, Nämner lag, Standarder, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-09-24"
+	},{
+		"Riktlinje nr ": 158,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/158-popup-funktioner-ska-kunna-hanteras-och-stangas-av-alla/",
+		"Namn ": "Popup-funktioner ska kunna hanteras och stängas av alla",
+		"Beskrivning ": "Innehåll, till exempel popup-rutor, som dyker upp vid tangentbordsfokus eller när användaren för muspekaren (hovrar) över ett visst objekt ska kunna uppfattas och hanteras av alla - även av användare som har förstorat sidan eller tar längre tid på sig att komma till innehållet. Det är särskilt viktigt att innehållet enkelt kan tas bort eller stängas.\r\n\r\nDet kan till exempel gälla undermenyer, inforutor (tooltips) och icke-modala popup-fönster.\r\n\r\nTyvärr skapar sådant innehåll annars ofta tillgänglighetsproblem, till exempel för att:\r\n<ul>\r\n \t<li>användaren inte har aktiverat funktionen med avsikt,</li>\r\n \t<li>användaren inte blir medveten om att det har dykt upp nytt innehåll eller</li>\r\n \t<li>det nya innehållet stör användarens förmåga att genomföra en uppgift.</li>\r\n</ul>",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 122,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/122-meningsfull-ordning/",
+		"Namn ": "Presentera innehållet i en meningsfull ordning för alla",
+		"Beskrivning ": "Utforma innehållet på ett sätt som bevarar den avsedda betydelsen för alla användare.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "CSS, DOS-lagen, läsordning, responsiv",
+		"Senast uppdaterad: ": "2020-10-08"
+	},{
+		"Riktlinje nr ": 46,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/46-publicera-i-format-som-ar-lampade-for-langsiktigt-bevarande/",
+		"Namn ": "Publicera i format som är lämpade för långsiktigt bevarande",
+		"Beskrivning ": "Innehåll på myndigheters webbplatser är allmänna handlingar. Därför behöver de kunna bevaras under lång tid. Det gäller både text och bilder, ljud eller video.",
+		"Prio ": 4,
+		"Princip(er) ": "Åtkomlig över tid",
+		"Taggar": "Arkiv, Avpublicering, Bevarande, Bevarandeformat, Filformat, Format, Förvaltning, Gallring, Kravställare, Nämner lag, Publicering, Standarder, Utvecklare, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2019-02-18"
+	},{
+		"Riktlinje nr ": 88,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/88-publicera-i-forsta-hand-dokument-i-html/",
+		"Namn ": "Publicera i första hand dokument i html och skapa tillgängliga pdf:er",
+		"Beskrivning ": "Publicera dokument, som rapporter och utredningar, i webbplatsens standardformat (html). Andra format gör det svårare att komma åt informationen, eftersom de ofta kräver extra programvara. Om du ändå behöver lägga ut en pdf, se då till att göra den tillgänglig.",
+		"Prio ": 2,
+		"Princip(er) ": "Tekniskt oberoende, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Beställare, DOS-lagen, Filformat, Förvaltning, Omfattande riktlinje, pdf, Standarder",
+		"Senast uppdaterad: ": "2018-07-13"
+	},{
+		"Riktlinje nr ": 42,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/42-redovisa-vilka-register-som-myndigheten-for-och-vilka-regler-som-galler-for-tillgang-till-dem/",
+		"Namn ": "Redovisa vilka register som myndigheten för och vilka regler som gäller för tillgång till dem",
+		"Beskrivning ": "I enlighet med Personuppgiftslagen (PUL 26 §) ska information om register beskriva vilka typer av uppgifter som lagras, syften, användningsområden, varifrån uppgifterna kommer och i vilka fall informationen samkörs med andra organisationers register. ",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Effektiv, Förtroendeingivande",
+		"Taggar": "Förvaltning, Innehåll, Nämner lag, Register, Webbredaktör",
+		"Senast uppdaterad: ": "2018-05-25"
+	},{
+		"Riktlinje nr ": 170,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/170-respektera-anvandarens-installningar/",
+		"Namn ": "Respektera användarens inställningar",
+		"Beskrivning ": "Inställningar som användaren gjort i webbläsaren ska om möjligt få genomslag vid presentation av färger, typsnitt, kontraster, textstorlek, och fokusmarkör.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "användar-css, CSS, DOS-lagen, en301549, en301549 utöver WCAG, inställningar, Stilmallar, Typografi",
+		"Senast uppdaterad: ": "2020-10-31"
+	},{
+		"Riktlinje nr ": 21,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/21-ange-vem-som-ar-informationsansvarig/",
+		"Namn ": "Riktlinjen hopslagen med R4",
+		"Beskrivning ": "Riktlinjen som tidigare hade nr 21 är nu en del av <a href=\"https://webbriktlinjer.se/riktlinjer/4-informera-om-myndighetens-kontaktvagar/\">Gör det lätt att komma i kontakt med er (R21)</a>.",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2018-02-15"
+	},{
+		"Riktlinje nr ": 48,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/48-samla-in-informationen-regelbundet-for-att-sakerstalla-bevarandet/",
+		"Namn ": "Samla in informationen regelbundet för att säkerställa bevarandet",
+		"Beskrivning ": "För att innehållet på webbplatsen ska kunna bevaras och finnas tillgängligt även på lång sikt måste det samlas in och sparas ner från webbplatsen regelbundet. Denna riktlinje är en av fem som gäller arkivering, och berör framför allt myndigheter.",
+		"Prio ": 3,
+		"Princip(er) ": "Åtkomlig över tid",
+		"Taggar": "Arkiv, Avpublicering, Bevarande, Bevarandeformat, Bild, Databaser, E-arkiv, Format, Förvaltning, Gallring, Kravställare, Ljud, Nämner lag, Publicering, Standarder, Uppdatering, Utveckling, Video, Webbcrawler, Webbplatsansvarig, Webbredaktör, Ändringar",
+		"Senast uppdaterad: ": "2014-09-24"
+	},{
+		"Riktlinje nr ": 79,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/79-datumstampla-bara-informationssidor/",
+		"Namn ": "Se riktlinje 23",
+		"Beskrivning ": "Riktlinjen har slagits samman med R23. ",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2014-10-06"
+	},{
+		"Riktlinje nr ": 40,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/40-gor-det-mojligt-att-stalla-fragor-och-ha-en-dialog-med-myndigheten/",
+		"Namn ": "Se riktlinje 38",
+		"Beskrivning ": "Tidigare riktlinje 40 är sammanslagen med riktlinje 38.",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2014-09-01"
+	},{
+		"Riktlinje nr ": 85,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/85-anvandning-av-knappar-i-formular/",
+		"Namn ": "Se riktlinje 60",
+		"Beskrivning ": "Om knappar i formulär. Se riktlinje 60.",
+		"Prio ": "Inaktiv",
+		"Taggar": "Användbarhetsdesigner, Formgivare, Formulär, Gränssnitt, Navigering, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2014-09-24"
+	},{
+		"Riktlinje nr ": 35,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/35-ge-mojlighet-att-prenumerera-pa-uppdateringar-av-innehall/",
+		"Namn ": "Se riktlinje 87",
+		"Beskrivning ": "Se riktlinje 87",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Effektiv",
+		"Senast uppdaterad: ": "2014-10-31"
+	},{
+		"Riktlinje nr ": 153,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/153-fungerar-oavsett-skarmens-riktning/",
+		"Namn ": "Se till att allt innehåll presenteras rätt oavsett skärmens riktning",
+		"Beskrivning ": "Alla människor har inte möjlighet att vrida på sin skärm. Vissa måste välja ett läge (stående eller liggande) och alltid använda detta, exempelvis med skärmen fast monterad på en rullstol. Skapa därför en design så att innehåll och funktioner är tillgängliga oavsett skärmens riktning. Då kan var och en välja det läge de föredrar.\r\n\r\n<img src=\"http://webbriktlinjer.se/files/2018/08/noun_Reading-1.png\" alt=\"\" width=\"300\" height=\"317\" class=\"alignnone size-full wp-image-19311\" />\r\nDet finns inget som hindrar att presentationen av innehållet och funktionerna skiljer sig åt mellan de båda lägena så länge innehållet är tillgängligt och funktionerna är åtkomliga och har normal funktion.\r\n\r\nI riktlinjen finns undantag för när funktionaliteten är beroende av att användaren har skärmen i en viss riktning, till exempel ett pianoprogram där liggande läge är nödvändigt för att alla tangenterna ska få plats. Informera användaren om när en viss riktning av skärmen är nödvändigt.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1, responsiv, skärmriktning",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 97,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/97-lat-bakatknappen-fungera/",
+		"Namn ": "Se till att bakåtknappen fungerar",
+		"Beskrivning ": "Webbläsarens funktion för att backa är en av de mest använda funktionerna för att navigera på webben, både inom en webbplats och mellan webbplatser. Se därför till att den fungerar. ",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Användbarhet, bakåtknapp, flikar, Interaktionsdesign, Kravställare, Kravställning, nya fönster, pop-up, target, Test, Testare, Utveckling",
+		"Senast uppdaterad: ": "2017-05-15"
+	},{
+		"Riktlinje nr ": 157,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/157-avstand-mellan-tecken-rader-stycken-och-ord/",
+		"Namn ": "Se till att det går att öka avstånd mellan tecken, rader, stycken och ord",
+		"Beskrivning ": "Många användare, till exempel dyslektiker och personer med nedsatt syn, behöver kunna påverka avståndet mellan stycken, rader, ord och tecken för att lättare kunna läsa. Gör det därför möjligt för användaren att påverka avstånden utan att innehåll eller funktionalitet krockar eller gömmer sig bakom annat innehåll.\r\n\r\nDenna riktlinje är närliggande riktlinjen <a href=\"https://webbriktlinjer.se/riktlinjer/127-se-till-att-text-gar-att-forstora-utan-problem/\">Se till att text går att förstora utan problem (R127)</a> men gäller alltså mellanrummen och inte själva tecknen.\r\n\r\nAnvändaren ska ha möjlighet att öka avstånd åtminstone upp till följande relativa gränsvärden:\r\n<ul>\r\n \t<li>Radavstånd ska kunna ökas minst 1,5 gånger teckensnittets storlek.</li>\r\n \t<li>Teckenavstånd ska kunna ökas minst 0,12 gånger teckensnittets storlek.</li>\r\n \t<li>Avståndet mellan ord ska kunna ökas minst 0,16 gånger teckensnittets storlek.</li>\r\n \t<li>Avståndet mellan stycken ska kunna ökas minst 2 gånger teckensnittets storlek.</li>\r\n</ul>\r\nFörstoring av mellanrum kan ske på olika sätt. Till exempel med hjälp av <a href=\"https://www.html5accessibility.com/tests/tsbookmarklet.html\">en bookmarklet som ökar avstånden</a>, med ett förstoringshjälpmedel eller genom att <a href=\"http://people.ds.cam.ac.uk/ssb22/css/\">ställa in webbläsaren att tillämpa användarens egen css-kod</a>.\r\n\r\nRiktlinjen gäller inte för <a href=\"https://webbriktlinjer.se/riktlinjer/117-texta-inspelad-rorlig-media/#erbjud-stangda-undertexter-for-digital-video\">öppna undertexter i video</a> och inte heller för text som förekommer i bilder (vilket i och för sig ofta bör undvikas, se <a href=\"https://webbriktlinjer.se/riktlinjer/128-anvand-text-inte-bilder-for-att-visa-text/\">Använd text, inte bilder, för att visa text (R128)</a>). För närvarande är även PDF undantaget.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1, radavstånd, Typografi",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 169,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/169-se-till-att-eventuella-samtalsfunktioner-ar-tillgangliga/",
+		"Namn ": "Se till att eventuella samtalsfunktioner är tillgängliga",
+		"Beskrivning ": "När det finns funktioner för samtal med röst eller video ska dessa utformas på ett sätt som gör dem tillgängliga för så många som möjligt. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "chatt, dialog, DOS-lagen, en301549, en301549 utöver WCAG, Ljud, realtid, samtal, Video",
+		"Senast uppdaterad: ": "2020-12-14"
+	},{
+		"Riktlinje nr ": 164,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/164-meddelanden-som-inte-ar-fokus/",
+		"Namn ": "Se till att hjälpmedel kan presentera meddelanden som inte är i fokus",
+		"Beskrivning ": "Se till att de som använder tekniska hjälpmedel som exempelvis skärmläsare och förstoringsprogram kan göras uppmärksamma på viktiga meddelanden även om de presenteras utanför det område på sidan som användaren har i fokus. \r\nAnge med hjälp av attributen <code>role</code> eller <code>aria-live</code> var viktiga meddelanden kan förekomma, så får hjälpmedel kännedom om dessa och kan presentera dem för användaren vid ett lämpligt tillfälle.\r\nBerörda användare riskerar annars att missa varningar, upplysningar och felmeddelanden. \r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "ajax, DOS-lagen, dynamisk, fokus, Nytt i WCAG 2.1, skärmläsare",
+		"Senast uppdaterad: ": "2018-12-20"
+	},{
+		"Riktlinje nr ": 67,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/67-ta-reda-pa-konsekvenserna-av-att-anvanda-externa-tjanster-i-din-webblosning/",
+		"Namn ": "Se till att infogade tjänster följer webbriktlinjerna",
+		"Beskrivning ": "Se till att tjänster som infogas på webbplatsen är användbara, tillgängliga och följer de lagar och rekommendationer som gäller för webbplatsen i övrigt.",
+		"Prio ": 3,
+		"Princip(er) ": "Förtroendeingivande, Tillgänglig",
+		"Taggar": "Beställare, Innehåll, komponent, Omfattande riktlinje, Utveckling, Webbplatsansvarig, widget",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 84,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/84-se-till-att-koden-validerar/",
+		"Namn ": "Se till att koden validerar",
+		"Beskrivning ": "Se till att er webbplats har sidmallar och stilmallar som har en god kodkvalitet och följer standarder. Det ökar chansen att alla användare kan komma åt informationen och tjänsterna på webbplatsen, oavsett vilka verktyg de använder. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tekniskt oberoende, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "DOS-lagen, Kravställare, Standarder, Systemutveckling, Testare, Utvecklare, Utveckling, validering",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 130,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/130-se-till-att-markoren-inte-fastnar-vid-tangentbordsnavigation/",
+		"Namn ": "Se till att markören inte fastnar vid tangentbordsnavigation",
+		"Beskrivning ": "Markören ska inte fastna vid tangentbordsnavigation. Det kan hindra besökare att använda webbplatsen eller vissa funktioner.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, hjälpmedel, inmatning, progressive enhancement, tangentbord",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 171,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/171-se-till-att-redigeringsfunktioner-ger-stod-tillganglighet/",
+		"Namn ": "Se till att redigeringsfunktioner ger stöd för tillgänglighet",
+		"Beskrivning ": "Om den digitala servicen används för redigering ska det som redigeras kunna göras tillgängligt. Publiceringssystem bör följa standarden ATAG.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "CMS, DOS-lagen, en301549, en301549 utöver WCAG, konvertering, Publicering, publiceringsystem, redigering",
+		"Senast uppdaterad: ": "2020-12-14"
+	},{
+		"Riktlinje nr ": 152,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/152-se-till-att-skraddarsydda-komponenter-fungerar-hjalpmedel/",
+		"Namn ": "Se till att skräddarsydda komponenter fungerar i hjälpmedel",
+		"Beskrivning ": "Komponenter behöver exponera namn, roll och värde till operativsystemets tillgänglighets-API för att fungera med vissa hjälpmedel.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 127,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/127-se-till-att-text-gar-att-forstora-utan-problem/",
+		"Namn ": "Se till att text går att förstora utan problem",
+		"Beskrivning ": "Det ska vara möjligt att förstora texten till åtminstone dubbel höjd och bredd utan att problem uppstår (till exempel att text hamnar bakom en bild eller krockar med annan text).",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-11-28"
+	},{
+		"Riktlinje nr ": 162,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/162-mojliggor-roststyrning-av-knappar-och-kontroller/",
+		"Namn ": "Se till att text på knappar och kontroller överensstämmer med maskinläsbara etiketter",
+		"Beskrivning ": "Se till att text som är synlig på knappar och andra gränssnittskontroller också finns i, och överensstämmer med, den maskinläsbara etikett som representerar kontrollen i exempelvis program för röststyrning.\r\n\r\nDen som använder röststyrning säger vanligtvis det som står på en knapp för att använda knappen. Detta fungerar om det som står på knappen motsvarar den maskinläsbara texten. Upplevelsen för seende som använder skärmläsare blir också bättre om uppläst text matchar det som visas på skärmen. \r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, Nytt i WCAG 2.1, röststyrning, skärmläsare, wai-aria",
+		"Senast uppdaterad: ": "2020-11-20"
+	},{
+		"Riktlinje nr ": 92,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/92-webbplatsen-ska-kunna-anvandas-aven-utan-stilmallar/",
+		"Namn ": "Se till att webbplatsen kan användas även utan stilmallar",
+		"Beskrivning ": "Riktlinjen inaktiverad eftersom den nästan helt överlappar andra riktlinjer. ",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2020-10-08"
+	},{
+		"Riktlinje nr ": 91,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/91-skapa-en-flexibel-layout/",
+		"Namn ": "Skapa en flexibel layout som fungerar vid förstoring eller liten skärm",
+		"Beskrivning ": "Skapa en layout som fungerar på en 320 pixlar bred skärm utan att information eller funktionalitet går förlorad, utan scrollning i mer än en riktning. I praktiken innebär det responsiv design och att att riktigt långa ord behöver avstavas. Att behöva scrolla i sidled är besvärligt och försämrar upplevelsen. Många använder små skärmar och personer som på grund av nedsatt syn förstorar innehållet har liknande behov. ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Användbarhet, DOS-lagen, Formgivare, Kravställare, Kravställning, Nytt i WCAG 2.1, responsiv, Stilmallar, Test, Testare, Tillgänglighet, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2018-12-20"
+	},{
+		"Riktlinje nr ": 99,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/99-skapa-kortadresser-for-sidor-som-ska-spridas/",
+		"Namn ": "Skapa korta webbadresser för sidor som ska spridas",
+		"Beskrivning ": "Om adressen till en sida ska spridas, till exempel i annonser eller tryckt material, så skapa en kort och tydlig webbadress. ",
+		"Prio ": 4,
+		"Princip(er) ": "Effektiv",
+		"Taggar": "Användbarhet, Innehåll, kortadress, Lågt hängande frukt, Sökmotor, url, webbadress",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 68,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/68-skapa-snabbkommandon-for-viktiga-funktioner/",
+		"Namn ": "Skapa kortkommandon med varsamhet",
+		"Beskrivning ": "Kortkommandon kan göra att det går snabbare att navigera på webbplatsen, men de bör användas med försiktighet. \r\n\r\nDet finns en risk att webbplatsens kortkommandon förväxlas med kortkommandon som användarens webbläsare, operativsystem eller hjälpmedel erbjuder. Kortkommandon som bara består av ett tecken kan dessutom orsaka problem för personer som använder röststyrning eller råkar klicka på fel tangent, exempelvis på grund av skakningar i händerna. \r\n\r\nRiktlinjen påverkar inte funktioner såsom listboxar och rullgardinsmenyer där användare kan göra sitt val genom att en eller flera tangenter trycks ned, eftersom detta bara går att göra när komponenten är i fokus.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, genväg, kortkommando, Nytt i WCAG 2.1, snabbkommando",
+		"Senast uppdaterad: ": "2018-12-28"
+	},{
+		"Riktlinje nr ": 105,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/105-skapa-rubriker-med-h-element/",
+		"Namn ": "Skapa rubriker med h-element",
+		"Beskrivning ": "Märk upp rubriker med h1, h2 och så vidare. Undvik att särskilja en rubrik från brödtext enbart genom formgivning. Det gör det nämligen svårare för personer med vissa hjälpmedel att navigera på sidan, och svårare för sökmotorer att avgöra vad sidan handlar om.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Användbarhet, Innehåll, Lågt hängande frukt, Rubrik, Semantik, Tillgänglighet, Utvecklare, Utveckling, Webbdesign, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 55,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/55-skapa-tydliga-och-klickbara-faltetiketter/",
+		"Namn ": "Skapa tydliga och klickbara fältetiketter",
+		"Beskrivning ": "För varje fält i ett formulär där användarna ska fylla i information, skapa en tydlig fältetikett (label) som förklarar fältets funktion. ",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, DOS-lagen, Formulär, Label, Utvecklare",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 61,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/61-skriv-tydliga-och-berattande-rubriker/",
+		"Namn ": "Skriv beskrivande rubriker och etiketter",
+		"Beskrivning ": "Bra rubriker hjälper läsaren att hitta i texten. Rubrikerna är särskilt viktiga för personer som använder skärmläsare, som kan läsa upp en lista över rubrikerna på en sida. Rubrikerna ska vara lagom långa och sammanfatta vad sidan eller avsnittet handlar om. Alltför korta och allmänna rubriker ger inte användarna så mycket hjälp, till exempel ”Inledning” eller ”Aktiviteter”.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, DOS-lagen, Förvaltning, Informatör, Innehåll, Klarspråk, Navigering, Rubrik, Språk, Utveckling, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 135,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/135-skriv-beskrivande-sidtitlar/",
+		"Namn ": "Skriv beskrivande sidtitlar",
+		"Beskrivning ": "En bra beskrivande titel sammanfattar sidans ämne eller innehåll. Varje sida på en webbplats, liksom andra typer av dokument bör ha en unik titel.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2020-09-30"
+	},{
+		"Riktlinje nr ": 66,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/66-skriv-datum-och-andra-sifferuppgifter-konsekvent/",
+		"Namn ": "Skriv datum och andra sifferuppgifter konsekvent",
+		"Beskrivning ": "Använd ett konsekvent sätt att skriva datum och andra sifferuppgifter. Om datum presenteras på flera olika sätt kan det vara förvirrande för läsaren, särskilt för personer som får innehållet uppläst av ett hjälpmedel.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar",
+		"Taggar": "Förvaltning, Informatör, Innehåll, Klarspråk, Språk, Terminologi, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-09-25"
+	},{
+		"Riktlinje nr ": 64,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/64-anpassa-spraket-till-lasaren/",
+		"Namn ": "Skriv lättbegripliga texter",
+		"Beskrivning ": "Texter på webbplatser bör skrivas på ett så enkelt och begripligt språk som möjligt, för att vara effektiva att läsa, och för att kunna förstås av ett stort antal läsare. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, Klarspråk, Lättläst, Nämner lag, Språk, Terminologi, Utveckling, Webbplatsansvarig, Webbredaktör",
+		"Senast uppdaterad: ": "2014-09-25"
+	},{
+		"Riktlinje nr ": 98,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/98-anvand-tabellrubriker-for-att-hjalpa-anvandaren/",
+		"Namn ": "Skriv rubriker till tabeller",
+		"Beskrivning ": "Tabeller kan vara svåra att tolka – både för användare med skärmläsare och för andra. Låt html-koden uttrycka vad tabellens olika delar innehåller, och hur de hänger ihop. På så vis blir tabellen tillgänglig för alla. Använd till exempel th-element för att ange vilka celler som är rad- och kolumnrubriker. ",
+		"Prio ": 4,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "Användbarhet, Formgivare, Stilmallar, Test, Testare, Tillgänglighet, Utvecklare, Utveckling, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 5,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/5-skriv-tydliga-lankar/",
+		"Namn ": "Skriv tydliga länkar",
+		"Beskrivning ": "Skriv länkarna så att användarna förstår vart länken leder även när den är lyft ur sitt sammanhang. På webben skummar vi ofta igenom information och blicken fastnar på avvikelser såsom rubriker, markerade ord och länkar. Tydliga och informativa länkar gör att besökarna snabbare hittar den information de söker.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Dokument, DOS-lagen, flik, Förvaltning, Innehåll, Länkar, target",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 70,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/70-skydda-anvandaren-mot-att-oavsiktligt-forlora-arbete-hon-paborjat/",
+		"Namn ": "Skydda användaren mot att oavsiktligt förlora påbörjat arbete",
+		"Beskrivning ": "Ett särskilt problem med e-tjänster är att användaren inte är ”inlåst” i gränssnittet på samma sätt som i en vanlig applikation. Tvärtom är det på webben lätt att av misstag lämna en inmatning man påbörjat, utan att avsluta eller uttryckligen avbryta den. För att motverka det kan e-tjänster använda sig av skyddsnät eller tunnlar.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Effektiv, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Förtroendeingivande",
+		"Senast uppdaterad: ": "2018-07-06"
+	},{
+		"Riktlinje nr ": 106,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/106-stryk-aldrig-under-text-som-inte-ar-lankad/",
+		"Namn ": "Stryk aldrig under text som inte är länkad",
+		"Beskrivning ": "När text är understruken signalerar det till användarna att den är klickbar.",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Användbarhet, Formgivare, Innehåll, Länkar, Läsbarhet, Stilmallar, Tillgänglighet, Typografi, Webbdesign, Webbredaktör",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 110,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/110-stam-av-resultat-med-ansvarig/",
+		"Namn ": "Stäm av resultat av utvärderingen med ansvarig",
+		"Beskrivning ": "Den fjärde fasen i det användarcentrerade arbetssättet är att återkoppla resultatet av utvärderingen till uppdragsgivaren, som sedan beslutar om nästa steg. ",
+		"Prio ": "Inaktiv",
+		"Taggar": "Användbarhet",
+		"Senast uppdaterad: ": "2018-04-16"
+	},{
+		"Riktlinje nr ": 118,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/118-syntolka-eller-erbjud-alternativ-till-videoinspelningar/",
+		"Namn ": "Syntolka eller erbjud alternativ till videoinspelningar",
+		"Beskrivning ": "Den som inte kan ta del av det visuella innehållet i videoinspelningar, till exempel på grund av synnedsättning, ska kunna få motsvarande information antingen i form av syntolkning (ljudbeskrivning) eller presenterad som text. \r\n\r\n\r\n",
+		"Prio ": 1,
+		"Taggar": "syntolkning",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 120,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/120-syntolka-videoinspelningar/",
+		"Namn ": "Syntolka videoinspelningar",
+		"Beskrivning ": "Ordna med syntolkning om det behövs för att personer med begränsad syn ska kunna ta del av videoinnehåll.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, en301549, en301549 utöver WCAG, syntolkning",
+		"Senast uppdaterad: ": "2020-12-03"
+	},{
+		"Riktlinje nr ": 173,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/173-sakerstall-tillganglighet-i-kundtjanst/",
+		"Namn ": "Säkerställ tillgänglighet i kundtjänst",
+		"Beskrivning ": "Kundtjänst och liknande funktioner ska vid behov kunna hjälpa användare med tillgänglighet i digitala tjänster. De bör till exempel känna till de rättigheter som följer av DOS-lagen.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "dokumentation, DOS-lagen, en301549, en301549 utöver WCAG, kundtjänst, Telefon",
+		"Senast uppdaterad: ": "2020-11-24"
+	},{
+		"Riktlinje nr ": 108,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/108-ta-fram-ett-designforslag/",
+		"Namn ": "Ta fram designförslag",
+		"Beskrivning ": "Den andra fasen i det användarcentrerade arbetssättet är att ta fram designförslag som visar hur en målgrupp utför en viss uppgift. Ett designförslag består av en prototyp och en uppgiftsbeskrivning. Dessa utvecklas successivt. Börja med en konceptuell design. Förtydliga i en interaktionsdesign, som sedan ytterligare bearbetas till en detaljerad design. ",
+		"Prio ": "Inaktiv",
+		"Princip(er) ": "Användbar",
+		"Senast uppdaterad: ": "2018-04-16"
+	},{
+		"Riktlinje nr ": 69,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/69-ta-fram-en-policy-for-domannamn/",
+		"Namn ": "Ta fram en policy för domännamn",
+		"Beskrivning ": "Valet av domännamn har betydelse för att användarna enkelt ska kunna hitta och ta sig till er webbplats. Ta fram en domännamnspolicy. Utred vilka domännamn som kan vara relevanta för er organisation, så undviker ni att registrera domännamn i onödan och hjälper användare att hitta till er information.",
+		"Prio ": 4,
+		"Princip(er) ": "Effektiv, Förtroendeingivande, Åtkomlig över tid",
+		"Taggar": "Adress, Beställare, Domännamn, Förvaltning, Navigering, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2014-09-25"
+	},{
+		"Riktlinje nr ": 109,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/109-testa-utvardera-designforslag/",
+		"Namn ": "Testa och utvärdera designförslag",
+		"Beskrivning ": "Den tredje fasen i det användarcentrerade arbetssättet är att testa och utvärdera designförslagen. Ordna helst tester och utvärderingar flera gånger under er arbetsprocess, allt eftersom ni utvecklar designen. \r\nMed test menar vi användningstest, där användare testar en prototyp, genom att utföra en eller flera uppgifter. Med utvärdering menar vi att man presenterar ett designförslag för någon, som ger synpunkter. Det kan vara en användbarhetsexpert som gör en expertutvärdering, eller en fokusgrupp som har synpunkter på förslaget i en workshop.\r\n",
+		"Prio ": "Inaktiv",
+		"Senast uppdaterad: ": "2018-04-16"
+	},{
+		"Riktlinje nr ": 119,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/119-texta-direktsandningar/",
+		"Namn ": "Texta direktsändningar",
+		"Beskrivning ": "Digital video ska ha undertexter och för annat ljud bör en textversion erbjudas. Denna riktlinje gäller direktsändningar.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "undertexter",
+		"Senast uppdaterad: ": "2020-09-25"
+	},{
+		"Riktlinje nr ": 117,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/117-texta-inspelad-rorlig-media/",
+		"Namn ": "Texta inspelad rörlig media (video, ljud, animationer…)",
+		"Beskrivning ": "Inspelad digital video ska ha undertexter (kallas även textbeskrivningar eller textremsa) och för ljudinspelningar (till exempel podcasts) med mera ska en textversion erbjudas.",
+		"Prio ": 1,
+		"Taggar": "DOS-lagen, en301549, en301549 utöver WCAG, Ljud, multimedia, textning",
+		"Senast uppdaterad: ": "2020-11-30"
+	},{
+		"Riktlinje nr ": 6,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/6-tillhandahall-e-tjanster-pa-en-webbadress-som-tillhor-myndigheten/",
+		"Namn ": "Tillhandahåll e-tjänster på en webbadress som ni kontrollerar",
+		"Beskrivning ": "Underlätta för användare att kontrollera vilken organisation som står bakom tjänsten genom att t.ex. visa information om certifikat. ",
+		"Prio ": 3,
+		"Princip(er) ": "Förtroendeingivande",
+		"Taggar": "Beställare, Domännamn, E-tjänst, Plattform, Tillit, Utveckling, webbadress, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 47,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/47-undvik-oavsiktlig-gallring-vid-andringar-och-uppdateringar/",
+		"Namn ": "Undvik oavsiktlig gallring vid ändringar och uppdateringar",
+		"Beskrivning ": "Innehåll på myndigheters webbplatser är allmänna handlingar som ska bevaras enligt arkivlagstiftningen. Man får ta bort information och gallra, men bara om det finns stöd i en författning. ",
+		"Prio ": 3,
+		"Princip(er) ": "Åtkomlig över tid",
+		"Taggar": "Arkiv, Avpublicering, Beställare, Bevarande, Förvaltning, Gallring, Innehåll, Nämner lag, Publicering, Uppdatering, Utveckling, Webbplatsansvarig, Webbredaktör, Ändringar",
+		"Senast uppdaterad: ": "2014-09-24"
+	},{
+		"Riktlinje nr ": 26,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/26-uppdatera-webbplatsens-innehall-och-lankar-regelbundet/",
+		"Namn ": "Uppdatera webbplatsens innehåll och länkar regelbundet",
+		"Beskrivning ": "Skapa tydliga rutiner för hur innehållet på webbplatsen ska uppdateras och gallras. Se till att borttagna sidor inte längre indexeras av sökmotorerna. ",
+		"Prio ": 2,
+		"Princip(er) ": "Användbar, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Beställare, Förvaltning, Informatör, Innehåll, svarskod, Uppdatera, Webbredaktör",
+		"Senast uppdaterad: ": "2017-10-30"
+	},{
+		"Riktlinje nr ": 168,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/168-utforma-eventuella-reglage-sa-att-alla-kan-anvanda-dem/",
+		"Namn ": "Utforma eventuella reglage så att alla kan använda dem",
+		"Beskrivning ": "Sidan är ett utkast Denna sida är en av flera nya webbriktlinjer som förtydligar och exemplifierar innebörden i de kriterier som går utöver WCAG i standarden EN301549, och som har relevans för DOS-lagen. Kom gärna med synpunkter! Exempelvis genom e-post till info@webbriktlinjer.se eller genom kommentarsfunktionen i slutet av sidan. &nbsp; Denna riktlinje gäller för knappar, [&hellip;]",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "appar, DOS-lagen, en301549, en301549 utöver WCAG, Knappar",
+		"Senast uppdaterad: ": "2020-12-03"
+	},{
+		"Riktlinje nr ": 100,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/100-utforma-webbadresser-med-omsorg/",
+		"Namn ": "Utforma webbadresser med omsorg",
+		"Beskrivning ": "Se till att era webbadresser kommer att vara tydliga och fungera bra, även på papper. Webbadresser behöver vara enkla att uppfatta. De kan behöva användas till exempel från utskrivna e-brev eller tryckta material, eller läsas upp i etermedier. Det finns risk att användarna uppfattar dem fel. Utforma därför webbadresserna med omsorg.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Förtroendeingivande",
+		"Taggar": "Användbarhet, Domännamn, SEO, Sökmotor, Test, webbadress",
+		"Senast uppdaterad: ": "2020-12-11"
+	},{
+		"Riktlinje nr ": 143,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/143-utfor-inga-ovantade-forandringar-vid-fokusering/",
+		"Namn ": "Utför inga oväntade förändringar vid fokusering",
+		"Beskrivning ": "Utför ändringar när användaren har anledning att förvänta sig dem.",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 144,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/144-utfor-inga-ovantade-forandringar-vid-inmatning/",
+		"Namn ": "Utför inga oväntade förändringar vid inmatning",
+		"Beskrivning ": "Utför ändringar när användaren har anledning att förvänta sig dem. ",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, dynamisk, Formulär, inmatning, sammanhang",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 96,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/96-utnyttja-webblasarnas-inbyggda-funktioner-for-att-hantera-utskrift/",
+		"Namn ": "Utnyttja webbläsarnas inbyggda funktioner för utskrift",
+		"Beskrivning ": "Använd en stilmall för att låta användarna skriva ut från webbplatsen. Då kan de förhandsgranska utskrifter via webbläsarens inbyggda funktion och kontrollera hur tabeller, text och andra sidelement ska sidbryts. För beräkningar, kvittenser, mottagningsbevis och liknande kan det dock vara motiverat att erbjuda särskilda utskriftsversioner. ",
+		"Prio ": 5,
+		"Princip(er) ": "Effektiv",
+		"Taggar": "CSS, javascript, Stilmallar, Utskrift",
+		"Senast uppdaterad: ": "2014-11-01"
+	},{
+		"Riktlinje nr ": 129,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/129-gar-att-hantera-med-tangentbord/",
+		"Namn ": "Utveckla systemet så att det går att hantera med enbart tangentbordet",
+		"Beskrivning ": "Se till att det går att hantera all funktionalitet med enbart tangentbord, eftersom många hjälpmedel i praktiken fungerar som tangentbord.\r\n",
+		"Prio ": 1,
+		"Princip(er) ": "Tillgänglig",
+		"Taggar": "DOS-lagen, tangentbord",
+		"Senast uppdaterad: ": "2018-11-30"
+	},{
+		"Riktlinje nr ": 81,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/81-utveckla-webbplatsen-enligt-en-standard-snarare-an-for-en-webblasare/",
+		"Namn ": "Utveckla webbplatsen enligt en standard, snarare än för en webbläsare",
+		"Beskrivning ": "Följ en webbstandard när ni utvecklar er webbplats, så kan ni vara mer säkra på att koden kommer att fungera även i kommande webbläsare. Samtidigt underlättar ni för dem som använder webbplatsen med andra verktyg än de vanligaste.",
+		"Prio ": 2,
+		"Princip(er) ": "Tekniskt oberoende, Tillgänglig, Åtkomlig över tid",
+		"Taggar": "Beställare, Standarder, Systemutveckling, Test, Utvecklare, Utveckling, Webbdesign",
+		"Senast uppdaterad: ": "2014-10-30"
+	},{
+		"Riktlinje nr ": 29,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/29-var-konsekvent-i-navigation-struktur-och-utformning/",
+		"Namn ": "Var konsekvent i navigation, struktur och utformning",
+		"Beskrivning ": "Konsekvens är mycket viktigt för att användarna ska förstå hur webbplatsen fungerar. Det betyder inte att alla sidor måste se likadana ut, men liknande uppgifter ska utföras på samma sätt oavsett var på webbplatsen man befinner sig.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Tillgänglig",
+		"Taggar": "Design, DOS-lagen, Förvaltning, Informationsstruktur, Navigering, Utveckling, Webbdesign",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 73,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/73-ge-anvandaren-mojlighet-att-forbereda-sig-infor-anvandandet-av-en-e-tjanst/",
+		"Namn ": "Var tydlig med förutsättningar för att kunna använda e-tjänsten",
+		"Beskrivning ": "Användarna ska inte behöva avbryta en process för att de inte har förberett information som krävs för att slutföra processen. Var tydlig med vilken information som tjänsten kommer att begära.",
+		"Prio ": 4,
+		"Princip(er) ": "Användbar, Effektiv",
+		"Taggar": "Beställare, E-tjänst, Förberedelser, kundupplevelse, Lågt hängande frukt, tjänstedesign, Utveckling, Webbplatsansvarig",
+		"Senast uppdaterad: ": "2020-12-21"
+	},{
+		"Riktlinje nr ": 27,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/27-hjalp-anvandarna-forsta-var-de-ar-pa-webbplatsen/",
+		"Namn ": "Visa tydligt var användaren befinner sig",
+		"Beskrivning ": "Användarna behöver hjälp att förstå var på webbplatsen de befinner sig. ",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Tillgänglig",
+		"Taggar": "Informationsstruktur, Länkar, Navigering, Systemutvecklare, Utveckling, Webbdesign, Webbdesigner, Webbredaktör",
+		"Senast uppdaterad: ": "2018-10-31"
+	},{
+		"Riktlinje nr ": 2,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/2-ge-begripliga-felmeddelanden/",
+		"Namn ": "Visa var ett fel uppstått och beskriv det tydligt",
+		"Beskrivning ": "Hjälp dina användare när det blir fel. Väl formulerade felmeddelanden ger användarna möjlighet att fylla i så felfria data som möjligt i formulären. De minskar också risken för att användarna ska bli irriterade när systemet inte förstår eller kan tolka den felaktigt inmatade informationen.",
+		"Prio ": 1,
+		"Princip(er) ": "Användbar, Förtroendeingivande, Tillgänglig",
+		"Taggar": "Applikation, DOS-lagen, Felhantering, Formulär, Innehåll, Utvecklare, Utveckling",
+		"Senast uppdaterad: ": "2018-12-05"
+	},{
+		"Riktlinje nr ": 63,
+		"URL ": "https://webbriktlinjer.se/riktlinjer/63-hjalp-anvandaren-att-forsta-var-hon-befinner-sig-i-en-process/",
+		"Namn ": "Visa var i en process användaren befinner sig",
+		"Beskrivning ": "Visa användarna tydligt var de befinner sig, när de tar sig igenom en process, till exempel om de håller på att göra en anmälan eller beställning i flera steg. Risken är annars att de blir osäkra och frustrerade, och i värsta fall väljer att avbryta processen. ",
+		"Prio ": 3,
+		"Princip(er) ": "Användbar, Effektiv, Tillgänglig",
+		"Taggar": "Formulär",
+		"Senast uppdaterad: ": "2018-03-08"
+	}
+]
