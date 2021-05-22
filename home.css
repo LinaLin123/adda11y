@@ -275,3 +275,23 @@ li {
   border-style: solid;
   border-width: 17px;
 }
+
+
+
+#dispGuidelines {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#listItem {
+  display: flex;
+  flex-direction: row;
+  border-left: 11px solid orange;
+  margin: 1em; 
+  background-color: white;
+}
+
+#titleItem {
+  font-size: 1em;
+}

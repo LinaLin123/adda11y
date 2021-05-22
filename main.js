@@ -34,14 +34,16 @@
 
 let dispDiv = document.getElementById("dispGuidelines");
 
-fetch("wcag.json")
+fetch("https://my-a11y-api.herokuapp.com/guidelines")
   .then((items) => items.json())
   .then((items) => showGuidelines(items));
 
 function showGuidelines(guidelines) {
-  // for (let i = 0; i < guidelines.guidelines.length; i++) {
-  //   let name = guidelines.guidelines[i].name;
-  //   let id = guidelines.guidelines[i].id;
+  // for (let i = 0; i < guidelines.length; i++) {
+  //   let name = guidelines[i].name;
+  //   let id = guidelines[i].id;
+
+  //   console.log(name);
 
   //   // create div for each product with product info, select and submitbtn
   //   dispDiv.innerHTML +=
@@ -57,22 +59,22 @@ function showGuidelines(guidelines) {
   // }
 
  
-  guidelines.guidelines.forEach(function(item){
+  guidelines.forEach(function(item){
     console.log(item.name)
     console.log(item.id)
 let id = item.id
 let name = item.name
 
 dispDiv.innerHTML +=
-      "<li id='" +
+      "<a href='guideline.html?id="+item.id+"'>" + "<li id='listItem'" +
       id +
       "' class='prod'>" +
-      "<h2 id='" +
+      "<h2 id='titleItem'" +
       id +
       "name'>" +
       name +
       "</h2>" + "<i class='fa fa-angle-right fa-2x'></i>"
-      "</li>";
+      "</li>" +"</a>";
 
 
   })

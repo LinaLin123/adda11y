@@ -150,7 +150,7 @@ const displayCharacters = (characters) => {
             return `
             <div class="searchItemWrapper" tabindex="0">
             <li class="searchItem">
-              <a href="${character.url}">  <h2 class="topSection">${character.name}</h2>
+              <a href='guideline.html?id=${character.id}'>  <h2 class="topSection">${character.name}</h2>
                 <p class="bottomSection"> ${character.description}</p><span class="triangleIcon><i class="fas fa-chevron-right"></i></span>
                 </a>
             </li>
