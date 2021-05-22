@@ -65,8 +65,8 @@ const displayGuidelines = (guidelines) => {
             return `
             <div class="searchItemWrapper" tabindex="0">
             <li class="searchItem">
-              <a href='guideline.html?id=${guideline.id}'>  <h2 class="topSection">${guideline.name}</h2>
-                <p class="bottomSection"> ${guideline.description}</p><span class="triangleIcon><i class="fas fa-chevron-right"></i></span>
+              <a href='guideline.html?id=${guideline.id}'> <h2 class="topSection">${guideline.name}<span class='iconArrow'></span></h2> 
+                <p class="bottomSection"> ${guideline.description}</p>
                 </a>
             </li>
             </div>
@@ -77,7 +77,7 @@ const displayGuidelines = (guidelines) => {
 
         const hits = guidelines.length === 1 ? "träff" : "träffar"
 
-    guidelinesList.innerHTML = `<span>Din sökning gav ${guidelines.length} ${hits} </span> <br>`+htmlString;
+    guidelinesList.innerHTML = `<span class="searchResult">Din sökning gav ${guidelines.length} ${hits} </span>`+ htmlString;
 
     
 };

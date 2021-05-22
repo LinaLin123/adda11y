@@ -6,12 +6,19 @@
     "Lucida Sans Unicode";
 }
 
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+
 .fontSize {
   font-size: 1rem;
 }
 
 .header1 {
-  background-color: white;
+  background-color: #e6decb;
 }
 
 .icon-listen {
@@ -33,7 +40,6 @@
   display: flex;
   justify-content: flex-end;
   flex-direction: row;
-  flex: 1 1 50%;
   list-style: none;
 }
 
@@ -41,17 +47,38 @@
   padding: 1rem;
 }
 
+
+a:link {
+  color: black;
+}
+
+ a:visited {
+  color: black;
+}
+
+.navigation-menu-item a:focus {
+  border-bottom: 1px solid;
+  background: lightgrey;
+}
+
+.navigation-menu-item a:hover {
+  border-bottom: 1px solid;
+  background: lightgrey;
+}
+
+
 .header-logo-nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 1rem;
+  padding: 1rem 1rem 0 1rem;
 }
 
 .footer {
   background-color: #e6decb;
 }
 
+/*  */
 
 .search-section {
   display: flex;
@@ -190,12 +217,16 @@
   background-color: #e6decb;
 }
 
+/*  */
+
+
+/* 
 .guidelines-wrapper {
  display:flex; 
 flex-direction: row;
 flex-wrap: wrap;
 max-width: 300px;
-}
+} */
 
 /* .searchWrapper {
   display: none;
@@ -232,14 +263,20 @@ max-width: 300px;
   margin: 0 1rem; 
 }
 
-.topSection{
-  background-color: #E6DECB;
-    padding: 1rem;
-    box-sizing: border-box;
-    width: 100%
+.searchItem :hover {
+  background: lightgrey;
 }
 
-#charactersList {
+.topSection{
+  display:flex; 
+  justify-content: space-between;
+  background-color: #E6DECB;
+  padding: 1rem;
+  width: 100%
+ 
+}
+
+#guidelinesList {
   list-style-type: none;
   padding: 0; 
 }
@@ -255,43 +292,68 @@ li {
   padding: 1rem;
 }
 
-
-.triangleIcon:before {
-  content: '';
-  position: absolute;
-  bottom: -31px;
-  right: 15px;
-  border-color: transparent #db7e02 #db7e02 transparent;
-  border-style: solid;
-  border-width: 17px;
+.searchIconBlack {
+  background: url("icons/search50.png") no-repeat 50% 50%;
+  display: inline-block;
+  height: 65%; 
+  width: 70%;
+  padding-top: 4.5em;
 }
 
-.bottomSection::before {
-  content: '';
-  position: absolute;
-  bottom: -31px;
-  right: 15px;
-  border-color: transparent #db7e02 #db7e02 transparent;
-  border-style: solid;
-  border-width: 17px;
+.searchResult {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+
 }
 
 
+/*  */
 
 #dispGuidelines {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 #listItem {
-  display: flex;
-  flex-direction: row;
-  border-left: 11px solid orange;
+  border-left: 11px solid #ECA48D;
   margin: 1em; 
   background-color: white;
+  list-style-type: none;
 }
 
 #titleItem {
   font-size: 1em;
 }
+
+.guidelineInnerItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6rem;
+  align-items: center;
+}
+
+/* .guidelineNumber {
+  font-size: 2rem;
+} */
+
+
+.iconArrow {
+  background: url('icons/right-arrow25.png') no-repeat;
+  height: 25px;
+  width: 25px;
+  display: block;
+  /* Other styles here */
+}
+
+.title {
+  background-color: white;
+  text-align: center;
+  padding: 1rem; 
+}
+
+.guidelines-list :hover {
+  background: lightgrey;
+}
+
+/*  */

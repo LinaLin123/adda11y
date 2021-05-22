@@ -5,26 +5,25 @@ fetch("https://my-a11y-api.herokuapp.com/guidelines")
   .then((items) => showGuidelines(items));
 
 function showGuidelines(guidelines) {
- 
-  guidelines.forEach(function(item){
-    console.log(item.name)
-    console.log(item.id)
-let id = item.id
-let name = item.name
+  guidelines.forEach(function (item) {
+    console.log(item.name);
+    console.log(item.id);
+    let id = item.id;
+    let name = item.name;
 
-dispDiv.innerHTML +=
-      "<a href='guideline.html?id="+item.id+"'>" + "<li id='listItem'" +
+    dispDiv.innerHTML +=
+      "<li id='listItem'" +
       id +
       "' class='prod'>" +
+      "<a class='guidelineInnerItem' href='guideline.html?id=" +
+      item.id +
+      "'>" + 
       "<h2 id='titleItem'" +
       id +
-      "name'>" +
-      name +
-      "</h2>" + "<i class='fa fa-angle-right fa-2x'></i>"
-      "</li>" +"</a>";
-
-
-  })
-
+      "name'>" + id + ". "  +
+      name + 
+      "</h2>" +
+      "<span class='iconArrow'></span>";
+    "</li>" + "</a>";
+  });
 }
-
