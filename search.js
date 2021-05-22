@@ -1,86 +1,11 @@
-// const searchBar = document.getElementById("searchBar")
-// console.log(searchBar)
-
-// searchBar.addEventListener('keyup',(e) => {
-//     console.log(e.target.value)
-// })
-
-// ///////
-// const charactersList = document.getElementById('charactersList');
-// const searchBarInput = document.getElementById('searchBar');
-// let hpCharacters = [];
-// const searchWrapper = document.querySelector('.searchWrapper');
-
-// const searchBtn = document.getElementById('myBtn');
-
-
-// searchBarInput.addEventListener('keyup', (event) => {
-
-//       const searchString = event.target.value.toLowerCase();
-
-//     const filteredCharacters = hpCharacters.filter((character) => {
-//         return (
-//             character.name.toLowerCase().includes(searchString) ||
-//             character.description.toLowerCase().includes(searchString)
-//         );
-//     });
-//     displayCharacters(filteredCharacters);
-// });
-
-// const loadCharacters = async () => {
-//     try {
-//         const res = await fetch('https://my-a11y-api.herokuapp.com/guidelines');
-//         hpCharacters = await res.json();
-//         displayCharacters(hpCharacters);
-//     } catch (err) {
-//         console.error(err);
-//     }
-// };
-
-// const displayCharacters = (characters) => {
-//     // if(!characters.length) {
-//     //     return searchWrapper.classList.remove("searchWrapper")
-//     // }
-//     const htmlString = characters
-//         .map((character) => {
-//             return `
-//             <div tabindex="0">
-//             <li class="character">
-//               <a href="${character.url}">  <h2>${character.name}</h2>
-//                 <p> ${character.description}</p>
-//                 <img src="${character.image}"></img>
-//                 </a>
-//             </li>
-//             </div>
-//         `;
-//         })
-//         .join('');
-//         // searchWrapper.classList.add('searchWrapper');
-//     charactersList.innerHTML = htmlString;
-    
-// };
-
-// loadCharacters();
-/////////
-
-// const buttonSubmit = document.getElementById('myBtn');
-
-// buttonSubmit.addEventListener('click', (e) => {
-
-// console.log("klickad")
-
-// });
-
-
-///////
 const urlParams = new URLSearchParams(window.location.search);
 const search = urlParams.get('search');
 
 console.log(search)
 
-const charactersList = document.getElementById('charactersList');
+const guidelinesList = document.getElementById('guidelinesList');
 const searchBarInput = document.getElementById('searchBar');
-let hpCharacters = [];
+let wcagGuidelines = [];
 const searchWrapper = document.querySelector('.searchWrapper');
 
 const searchBtn = document.getElementById('myBtn');
@@ -109,30 +34,22 @@ searchBarInput.addEventListener('keydown', (event) => {
 })
 
 
-// searchBarInput.addEventListener('keyup', (event) => {
-
-//       const searchString = event.target.value.toLowerCase();
-    
-//       filterResult(searchString)
- 
-// });
-
 function filterResult(searchString) {
 
-    const filteredCharacters = hpCharacters.filter((character) => {
+    const filteredCharacters = wcagGuidelines.filter((guideline) => {
         return (
-            character.name.toLowerCase().includes(searchString) ||
-            character.description.toLowerCase().includes(searchString)
+            guideline.name.toLowerCase().includes(searchString) ||
+            guideline.description.toLowerCase().includes(searchString)
         );
     });
-    displayCharacters(filteredCharacters);
+    displayGuidelines(filteredCharacters);
 }
 
-const loadCharacters = async () => {
+const loadGuidelines = async () => {
     try {
         const res = await fetch('https://my-a11y-api.herokuapp.com/guidelines');
-        hpCharacters = await res.json();
-        displayCharacters(hpCharacters);
+        wcagGuidelines = await res.json();
+        displayGuidelines(wcagGuidelines);
         if (search !== ""){
             filterResult(search)
          }
@@ -141,17 +58,15 @@ const loadCharacters = async () => {
     }
 };
 
-const displayCharacters = (characters) => {
-    // if(!characters.length) {
-    //     return searchWrapper.classList.remove("searchWrapper")
-    // }
-    const htmlString = characters
-        .map((character) => {
+const displayGuidelines = (guidelines) => {
+
+    const htmlString = guidelines
+        .map((guideline) => {
             return `
             <div class="searchItemWrapper" tabindex="0">
             <li class="searchItem">
-              <a href='guideline.html?id=${character.id}'>  <h2 class="topSection">${character.name}</h2>
-                <p class="bottomSection"> ${character.description}</p><span class="triangleIcon><i class="fas fa-chevron-right"></i></span>
+              <a href='guideline.html?id=${guideline.id}'>  <h2 class="topSection">${guideline.name}</h2>
+                <p class="bottomSection"> ${guideline.description}</p><span class="triangleIcon><i class="fas fa-chevron-right"></i></span>
                 </a>
             </li>
             </div>
@@ -160,13 +75,13 @@ const displayCharacters = (characters) => {
         .join('');
         // searchWrapper.classList.add('searchWrapper');
 
-        const hits = characters.length === 1 ? "träff" : "träffar"
+        const hits = guidelines.length === 1 ? "träff" : "träffar"
 
-    charactersList.innerHTML = `<span>Din sökning gav ${characters.length} ${hits} </span> <br>`+htmlString;
+    guidelinesList.innerHTML = `<span>Din sökning gav ${guidelines.length} ${hits} </span> <br>`+htmlString;
 
     
 };
 
 
 
-loadCharacters();
+loadGuidelines();
