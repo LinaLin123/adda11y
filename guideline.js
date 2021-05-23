@@ -13,6 +13,6 @@ let article = guidelines.find((guideline) => {
   return guideline.id == articleId
 })
 
-dispDiv.innerHTML = "<h2>" + article.name + "</h2>" + "<p>" + article.description + "</p>" + article.text
+dispDiv.innerHTML = "<div class='articleTitleStyling'><h1 class='articleTitle'>" + article.kriterietId + " " + article.name + "</h1></div>" + "<div class='articleIngressTextWrapper'><p class='articleIngress'>" + article.description + "</p>" + article.text +"</div>"
 
 }
