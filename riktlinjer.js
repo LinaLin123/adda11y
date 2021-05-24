@@ -27,3 +27,11 @@ function showGuidelines(guidelines) {
     "</li>" + "</a>";
   });
 }
+
+document.querySelector(".main ol").style.display = "none";
+document.querySelector(".main").classList.add("spinner");
+
+setTimeout(() => {
+  document.querySelector(".main").classList.remove("spinner");
+  document.querySelector(".main ol").style.display = "grid";
+}, 1000);

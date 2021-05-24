@@ -155,7 +155,6 @@ a:link {
     font-size: 18px;
 }
 
-
 .article-wrapper {
     display: flex;
     flex-direction: row;
@@ -227,46 +226,12 @@ a:link {
 }
 
 /*  */
-
-
-/* 
-.guidelines-wrapper {
- display:flex; 
-flex-direction: row;
-flex-wrap: wrap;
-max-width: 300px;
-} */
-
-/* .searchWrapper {
-  display: none;
-} */
-
 .searchItemWrapper {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   background-color: white;
 }
-/* 
-.searchItem:before {
-  content: '';
-  position: absolute;
-  bottom: -1px;
-  right: -1px;
-  border-color: transparent #db7e02 #db7e02 transparent;
-  border-style: solid;
-  border-width: 17px;
-}
-
-.searchItem:after {
-  content: "\f061";
-  font-weight: 900;
-  color: #fff;
-  position: absolute;
-  bottom: 3px;
-  right: 4px;
-  font-size: 12px;
-} */
 
 .searchItem {
   margin: 0 1rem; 
@@ -305,7 +270,7 @@ li {
   background: url("icons/search50.png") no-repeat 50% 50%;
   display: inline-block;
   height: 65%; 
-  width: 70%;
+  width: 83%;
   padding-top: 4.5em;
 }
 
@@ -342,9 +307,6 @@ li {
   align-items: center;
 }
 
-/* .guidelineNumber {
-  font-size: 2rem;
-} */
 
 
 .iconArrow {
@@ -352,7 +314,6 @@ li {
   height: 25px;
   width: 25px;
   display: block;
-  /* Other styles here */
 }
 
 .title {
@@ -407,4 +368,29 @@ li {
 
 .article-container {
   background-color: #E6DECB;
+}
+
+/*  */
+
+/* Spinner 1 */
+.spinner:before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -30px;
+  margin-left: -30px;
+  border-radius: 50%;
+  border: 3px solid lightgray;
+  border-top-color: coral;
+  animation: spinner 1.2s linear infinite;
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
 }
