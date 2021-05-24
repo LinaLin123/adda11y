@@ -12,7 +12,7 @@ function showGuidelines(guidelines) {
     let name = item.name;
 
     dispDiv.innerHTML +=
-      "<li id='listItem'" +
+      "<li id='listItem' tabindex='0' role='riktlinje' " +
       id +
       "' class='prod'>" +
       "<a class='guidelineInnerItem' href='guideline.html?id=" +
