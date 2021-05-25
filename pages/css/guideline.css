@@ -1,0 +1,46 @@
+
+/*  */
+
+.articleIngressTextWrapper {
+    max-width: 700px; 
+    margin: 0 auto;
+    padding: 1rem 0; 
+  }
+  
+  #articlePost li {
+    padding-bottom: 0.5rem;
+  }
+  
+  #articlePost ol, ul {
+    padding-bottom: 1rem;;
+  }
+  
+  #articlePost h2 {
+    font-size: 1.2rem;
+  }
+  
+  #articlePost h3 {
+    font-size: 1rem;
+  }
+  
+  .articleTitle {
+    max-width: 700px; 
+    margin: 0 auto;
+  }
+  
+  .articleTitleStyling{
+    background-color: white;
+    border-bottom: 8px solid #ECA48D;
+    padding: 0.5rem 0;
+  }
+  
+  .articleIngress{
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  .article-container {
+    background-color: #E6DECB;
+  }
+  
+  

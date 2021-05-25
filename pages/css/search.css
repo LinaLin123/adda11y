@@ -1,0 +1,55 @@
+
+.searchItemWrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+  }
+  
+  .searchItem {
+    margin: 0 1rem; 
+  }
+  
+  .searchItem :hover {
+    background: lightgrey;
+  }
+  
+  .topSection{
+    display:flex; 
+    justify-content: space-between;
+    background-color: #E6DECB;
+    padding: 1rem;
+    width: 100%
+   
+  }
+  
+  #guidelinesList {
+    list-style-type: none;
+    padding: 0; 
+  }
+  
+  li {
+    flex-grow: 1;
+    flex-basis: 0;
+  }
+  
+  .bottomSection {
+    background-color: #F6F6F6;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  
+  .searchResult {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+  
+  }
+
+  .iconArrow {
+    background: url('/icons/right-arrow25.png') no-repeat;
+    height: 25px;
+    width: 25px;
+    display: block;
+  }
