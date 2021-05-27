@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/home.css" />
+    <link rel="stylesheet" href="css/tips.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Tips</title>
+  </head>
+  <body>
+    <header class="header1">
+      <nav>
+        <div class="header-logo-nav">
+          <div class="logo">
+            <h2>
+              <a href="/index.html"> ADD A11Y</a>
+            </h2>
+          </div>
+
+          <ul class="navigation-menu">
+            <li class="navigation-menu-item">
+              <a href="riktlinjer.html"> Riktlinjer</a>
+            </li>
+
+            <li class="navigation-menu-item">
+              <a href="tips.html"> Tips</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main class="main-wrapper">
+      <h1 tabindex="0">
+        Några förslag på hur man kan förbättre tillgängligheten
+      </h1>
+      <section class="card-container">
+        <div class="card">
+          <img
+            src="/images/tip1.svg"
+            alt="Visar på bild minimun storlek på text"
+            tabindex="0"/>
+
+          <h2 lang="en" tabindex="0">Minimum Text Size</h2>
+          <p lang="en" tabindex="0">WCAG 2.0 suggests using text no smaller than 16pt.</p>
+        </div>
+
+        <div class="card">
+          <img src="/images/tip2.svg" alt="Alt taggar och syntolkning" tabindex="0"/>
+
+          <h2 lang="en" tabindex="0">Alt Tags + Captions</h2>
+          <p lang="en" tabindex="0">
+            Media should have descriptive text for screen readers.
+          </p>
+        </div>
+
+        <div class="card">
+          <img
+            src="/images/tip3.svg"
+            alt="Kontrast mellan texten och bakgrunden" tabindex="0"
+          />
+
+          <h2 lang="en" tabindex="0">Element Contrast</h2>
+          <p lang="en" tabindex="0">
+            Ensure the colors and font weights and sizes have a contrast ratio
+            of at least 4.5:1.
+          </p>
+        </div>
+
+        <div class="card">
+          <img src="/images/tip4.svg" alt="Ge användare andra alternativ" tabindex="0"/>
+
+          <h2 lang="en" tabindex="0">Alternatives to Complex Actions</h2>
+          <p lang="en" tabindex="0">
+            Provide a method for skipping over long lists of links or other
+            lengthy content.
+          </p>
+        </div>
+
+        <div class="card">
+          <img
+            src="/images/tip5.svg"
+            alt="Det ska gå navigera med tangentbord" tabindex="0"
+          />
+
+          <h2 lang="en" tabindex="0">Focus States</h2>
+          <p lang="en" tabindex="0">
+            Provide focus states for all interactive elements and text on the
+            page for users relying on keyboard navigation.
+          </p>
+        </div>
+
+        <div class="card">
+          <img src="/images/tip6.svg" alt="Dela upp sektioner med utrymme" tabindex="0"/>
+
+          <h2 lang="en" tabindex="0">More White Space</h2>
+          <p lang="en" tabindex="0">
+            Utilize empty space on the page to break up sections and focus in on
+            content. Too much content can overstimulate and confuse users.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">Inkludera alla</footer>
+
+    <script type="application/javascript" src="guideline.js"></script>
+  </body>
+</html>
