@@ -10,7 +10,6 @@ fetch("https://my-a11y-api.herokuapp.com/guidelines")
 //Genom find metoden hämtar jag rätt riktlinjens id och artikel id och skriver ut id, namn, beskrivning och text till HTML.
 function showGuidelines(guidelines) {
   let article = guidelines.find((guideline) => {
-    console.log(guideline);
     return guideline.id == articleId;
   });
 

@@ -83,6 +83,12 @@ a:link {
   padding: 1rem 1rem 0 1rem;
 }
 
+@media only screen and (max-width: 500px) {
+  .header-logo-nav  {
+    padding: 0.4rem 0.1rem 0 0.1rem;
+  }
+}
+
 .footer {
   background-color: #e6decb;
 }
@@ -101,6 +107,12 @@ a:link {
   background-size: cover;
 }
 
+@media only screen and (max-width: 500px) {
+  .search-section {
+    background-image: none;
+  }
+}
+
 .search-help {
   background-color: #eca48d;
   max-width: 505px;
@@ -112,6 +124,12 @@ a:link {
   background-color: #e6decb;
   max-width: 711px;
   padding: 2rem 8rem 3rem 8rem;
+}
+
+@media only screen and (max-width: 500px) {
+  .search {
+    padding: 1rem 2rem 1rem 2rem;
+   }
 }
 
 .search-form {
@@ -158,12 +176,30 @@ a:link {
     font-size: 18px;
 }
 
+@media only screen and (max-width: 500px) {
+  .search-input {
+    width: auto;
+    height: 45px;
+    padding: 0 0.5rem; 
+    padding-right: 3rem; 
+    border: 2px solid darksalmon;
+    border-radius: 40px;
+    font-size: 18px;  }
+}
+
 .article-wrapper {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     padding:5rem 2rem; 
+}
+
+
+@media only screen and (max-width: 500px) {
+  .article-wrapper  {
+    padding: 5rem 0rem;
+  }
 }
 
 .article-item {
@@ -190,8 +226,8 @@ a:link {
     height: 125px; 
     width: 115px;
     position: absolute;
-    top: -66px; 
-    left: 111px;
+    top: -26%; 
+    left: 35%;
 }
 
 .articleIconBlue {
@@ -201,8 +237,8 @@ a:link {
     height: 125px; 
     width: 115px;
     position: absolute;
-    top: -66px; 
-    left: 111px;
+    top: -26%; 
+    left: 35%;
 }
 
 .articleIconGreen {
@@ -212,9 +248,27 @@ a:link {
     height: 125px; 
     width: 115px;
     position: absolute;
-    top: -66px; 
-    left: 111px;
+    top: -26%; 
+    left: 35%;
 }
+
+@media only screen and (max-width: 400px) {
+  .articleIconPeach  {
+    top: -19%; 
+    left: 28%;
+    }
+
+    .articleIconBlue  {
+      top: -19%; 
+      left: 28%;
+      }
+
+      .articleIconGreen  {
+        top: -19%; 
+        left: 28%;
+        }
+}
+
 
 .footer {
     display: flex;
