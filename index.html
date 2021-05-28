@@ -13,15 +13,15 @@
   </head>
   <body>
     <header class="header1">
-      <nav>
+      <nav role="navigation">
         <div class="header-logo-nav">
           <div class="logo">
-            <h2>
+            <h2 role="logo">
               <a href="index.html"> ADD A11Y</a>
             </h2>
           </div>
 
-          <ul class="navigation-menu">
+          <ul class="navigation-menu" role="navigation-menu">
             <li class="navigation-menu-item">
               <a href="pages/riktlinjer.html"> Riktlinjer</a>
             </li>
@@ -41,7 +41,7 @@
         </div>
 
         <div class="search">
-          <form class="search-form" method="get" action="pages/search.html">
+          <form class="search-form" method="get" action="pages/search.html" role="sök">
             <div class="form-wrapper">
               <label for="search" class="visuallyhidden">Sök</label>
               <input
@@ -49,9 +49,10 @@
                 name="search"
                 id="search"
                 class="search-input"
+                role="searchbox"
                 placeholder="Sök på riktlinjer"
               />
-              <button type="submit" name="submitButton" class="search-button">
+              <button type="submit" name="submitButton" class="search-button" role="search-button">
                 <i class="searchIconBlack"></i
                 ><span class="visuallyhidden">Sök</span>
               </button>
